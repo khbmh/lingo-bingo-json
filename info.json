@@ -4,6 +4,7 @@
     "lesson_name": "Common Greetings and Phrases",
     "lesson_name_ar": "التحيات والعبارات الشائعة",
     "lesson_difficulty": "Basic",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/business-person-greeting-each-other-3d-icon-download-in-png-blend-fbx-gltf-file-formats--hello-logo-waiving-hand-meet-and-greet-financial-pack-people-icons-4673777.png?f=webp",
     "urlId": "common-greetings-and-phrases",
     "words": [
       {
@@ -153,10 +154,11 @@
   },
   {
     "lesson_id": 2,
-    "lesson_name": "Numbers 1-10",
+    "lesson_name": "Numbers",
     "lesson_name_ar": "الأرقام من 1 إلى 10",
     "lesson_difficulty": "Basic",
-    "urlId": "numbers-1-10",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/one-to-ten-numbers-3d-icon-download-in-png-blend-fbx-gltf-file-formats--scattered-number-knowledge-blocks-pack-icons-6360319.png?f=webp",
+    "urlId": "numbers",
     "words": [
       {
         "Id": "21",
@@ -286,6 +288,7 @@
     "lesson_name": "Days of the Week",
     "lesson_name_ar": "أيام الأسبوع",
     "lesson_difficulty": "Basic",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/calendar-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--schedule-date-event-day-month-to-do-pack-business-illustrations-3926027.png?f=webp",
     "urlId": "days-of-the-week",
     "words": [
       {
@@ -438,6 +441,7 @@
     "lesson_name": "Family and Relationships",
     "lesson_name_ar": "العائلة والعلاقات",
     "lesson_difficulty": "Basic",
+    "image": "https://cdni.iconscout.com/illustration/premium/thumb/happy-family-illustration-download-in-svg-png-gif-file-formats--time-bounding-spending-together-pack-people-illustrations-4002953.png?f=webp",
     "urlId": "family-and-relationships",
     "words": [
       {
@@ -557,6 +561,7 @@
     "lesson_name": "Colors",
     "lesson_name_ar": "الألوان",
     "lesson_difficulty": "Basic",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/color-palette-and-brush-3d-icon-download-in-png-blend-fbx-gltf-file-formats--paint-education-pack-school-icons-4816910.png",
     "urlId": "colors",
     "words": [
       {
@@ -742,6 +747,7 @@
     "lesson_name": "Common Adjectives",
     "lesson_name_ar": "الصفات الشائعة",
     "lesson_difficulty": "Basic",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/multiple-emotions-3d-icon-download-in-png-blend-fbx-gltf-file-formats--different-autism-syndrome-solutions-moods-happy-psychology-mental-health-pack-healthcare-medical-icons-8530029.png?f=webp",
     "urlId": "common-adjectives",
     "words": [
       {
@@ -836,10 +842,11 @@
   },
   {
     "lesson_id": 7,
-    "lesson_name": "Basic Food Vocabulary",
+    "lesson_name": "Basic Food",
     "lesson_name_ar": "مفردات الطعام الأساسية",
     "lesson_difficulty": "Basic",
-    "urlId": "basic-food-vocabulary",
+    "image": "https://cdni.iconscout.com/illustration/premium/thumb/spanish-food-illustration-download-in-svg-png-gif-file-formats--cuisine-dish-pack-drink-illustrations-5650000.png?f=webp",
+    "urlId": "basic-food",
     "words": [
       {
         "Id": 71,
@@ -958,6 +965,7 @@
     "lesson_name": "Places Around Town",
     "lesson_name_ar": "أماكن في المدينة",
     "lesson_difficulty": "Basic",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/town-3d-icon-download-in-png-blend-fbx-gltf-file-formats--city-urban-signal-lights-traffic-signals-pack-air-vehicles-icons-8436757.png?f=webp",
     "urlId": "places-around-town",
     "words": [
       {
@@ -1066,6 +1074,7 @@
     "lesson_name": "Essential Verbs",
     "lesson_name_ar": "الأفعال الأساسية",
     "lesson_difficulty": "Basic",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/business-skill-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--employee-processing-expertise-social-media-element-pack-illustrations-5888630.png?f=webp",
     "urlId": "essential-verbs",
     "words": [
       {
@@ -1160,10 +1169,11 @@
   },
   {
     "lesson_id": 10,
-    "lesson_name": "Weather Vocabulary",
+    "lesson_name": "Weather",
     "lesson_name_ar": "مفردات الطقس",
     "lesson_difficulty": "Basic",
-    "urlId": "weather-vocabulary",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/drizzle-weather-3d-icon-download-in-png-blend-fbx-gltf-file-formats--rain-cloud-pack-icons-5753008.png",
+    "urlId": "weather",
     "words": [
       {
         "Id": 101,
@@ -1238,6 +1248,7 @@
     "lesson_name": "Numbers 11-100",
     "lesson_name_ar": "الأرقام من 11 إلى 100",
     "lesson_difficulty": "Intermediate",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/number-100-3d-icon-download-in-png-blend-fbx-gltf-file-formats--count-balloon-math-pack-sign-symbols-icons-10077389.png?f=webp",
     "urlId": "numbers-11-100",
     "words": [
       {
@@ -1335,6 +1346,7 @@
     "lesson_name": "Common Occupations",
     "lesson_name_ar": "المهن الشائعة",
     "lesson_difficulty": "Intermediate",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/job-interview-3d-icon-download-in-png-blend-fbx-gltf-file-formats--recruitment-business-corporate-pack-icons-4755483.png?f=webp",
     "urlId": "common-occupations",
     "words": [
       {
@@ -1429,10 +1441,11 @@
   },
   {
     "lesson_id": 13,
-    "lesson_name": "Clothing Vocabulary",
+    "lesson_name": "Clothing",
     "lesson_name_ar": "مفردات الملابس",
     "lesson_difficulty": "Intermediate",
-    "urlId": "clothing-vocabulary",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/clothing-3d-icon-download-in-png-blend-fbx-gltf-file-formats--clothes-coat-dress-beauty-wear-fashion-pack-accessories-icons-8588300.png?f=webp",
+    "urlId": "clothing",
     "words": [
       {
         "Id": 131,
@@ -1526,10 +1539,11 @@
   },
   {
     "lesson_id": 14,
-    "lesson_name": "Transportation Vocabulary",
+    "lesson_name": "Transportation",
     "lesson_name_ar": "مفردات وسائل النقل",
     "lesson_difficulty": "Intermediate",
-    "urlId": "transportation-vocabulary",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/transportation-3d-icon-download-in-png-blend-fbx-gltf-file-formats--vehicle-travel-automobile-bus-airplane-technology-pack-cryptocurrency-icons-7726329.png",
+    "urlId": "transportation",
     "words": [
       {
         "Id": 141,
@@ -1615,6 +1629,7 @@
     "lesson_name": "Basic Prepositions",
     "lesson_name_ar": "حروف الجر الأساسية",
     "lesson_difficulty": "Intermediate",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/curved-arrow-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--right-arrows-direction-pack-sign-symbols-illustrations-3811544.png",
     "urlId": "basic-prepositions",
     "words": [
       {
@@ -1723,6 +1738,7 @@
     "lesson_name": "Places in the Home",
     "lesson_name_ar": "أماكن في المنزل",
     "lesson_difficulty": "Intermediate",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/big-size-bed-room-3d-icon-download-in-png-blend-fbx-gltf-file-formats--furniture-bedroom-double-isometric-pack-interiors-icons-5251978.png?f=webp",
     "urlId": "places-in-the-home",
     "words": [
       {
@@ -1820,6 +1836,7 @@
     "lesson_name": "Parts of the Body",
     "lesson_name_ar": "أجزاء الجسم",
     "lesson_difficulty": "Intermediate",
+    "image": "https://cdn.iconscout.com/icon/free/png-256/free-body-icon-download-in-svg-png-gif-file-formats--human-fitness-organ-parts-pack-healthcare-medical-icons-4042632.png?f=webp&w=256",
     "urlId": "parts-of-the-body",
     "words": [
       {
@@ -1917,6 +1934,7 @@
     "lesson_name": "Hobbies and Leisure Activities",
     "lesson_name_ar": "الهوايات والأنشطة الترفيهية",
     "lesson_difficulty": "Intermediate",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/creative-hobby-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--art-designing-design-creativity-pack-tools-illustrations-5220375.png",
     "urlId": "hobbies-and-leisure-activities",
     "words": [
       {
@@ -2014,6 +2032,7 @@
     "lesson_name": "Common Household Items",
     "lesson_name_ar": "الأغراض المنزلية الشائعة",
     "lesson_difficulty": "Intermediate",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/sofa-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--couch-furniture-home-interior-seat-interiors-illustrations-2928752.png?f=webp",
     "urlId": "common-household-items",
     "words": [
       {
@@ -2089,6 +2108,7 @@
     "lesson_name": "Common Verbs for Daily Life",
     "lesson_name_ar": "الأفعال الشائعة في الحياة اليومية",
     "lesson_difficulty": "Intermediate",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/work-deadline-3d-icon-download-in-png-blend-fbx-gltf-file-formats--task-time-management-pack-corporate-life-icons-6165816.png",
     "urlId": "common-verbs-for-daily-life",
     "words": [
       {
@@ -2186,6 +2206,7 @@
     "lesson_name": "Advanced Adjectives",
     "lesson_name_ar": "الصفات المتقدمة",
     "lesson_difficulty": "Advanced",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/support-3d-icon-download-in-png-blend-fbx-gltf-file-formats--call-logo-help-service-customer-pack-services-icons-9801562.png?f=webp",
     "urlId": "advanced-adjectives",
     "words": [
       {
@@ -2283,6 +2304,7 @@
     "lesson_name": "Nature and the Environment",
     "lesson_name_ar": "الطبيعة والبيئة",
     "lesson_difficulty": "Advanced",
+    "image": "https://cdn-icons-png.freepik.com/512/14770/14770235.png",
     "urlId": "nature-and-the-environment",
     "words": [
       {
@@ -2388,10 +2410,11 @@
   },
   {
     "lesson_id": 23,
-    "lesson_name": "Advanced Food and Cooking Vocabulary",
+    "lesson_name": "Advanced Food and Cooking",
     "lesson_name_ar": "المفردات المتقدمة للطعام والطهي",
     "lesson_difficulty": "Advanced",
-    "urlId": "advanced-food-and-cooking-vocabulary",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/cooking-8541246-6716429.png",
+    "urlId": "advanced-food-and-cooking",
     "words": [
       {
         "Id": 231,
@@ -2477,6 +2500,7 @@
     "lesson_name": "Emotions and Feelings",
     "lesson_name_ar": "العواطف والمشاعر",
     "lesson_difficulty": "Advanced",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/multiple-emotions-3d-icon-download-in-png-blend-fbx-gltf-file-formats--different-autism-syndrome-solutions-moods-happy-psychology-mental-health-pack-healthcare-medical-icons-8530029.png?f=webp",
     "urlId": "emotions-and-feelings",
     "words": [
       {
@@ -2571,10 +2595,11 @@
   },
   {
     "lesson_id": 25,
-    "lesson_name": "Travel and Vacation Vocabulary",
+    "lesson_name": "Travel and Vacation",
     "lesson_name_ar": "مفردات السفر والإجازات",
     "lesson_difficulty": "Advanced",
-    "urlId": "travel-and-vacation-vocabulary",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/travel-3d-icon-download-in-png-blend-fbx-gltf-file-formats--transport-vacation-transportation-tourism-miscellaneous-pack-icons-5914273.png",
+    "urlId": "travel-and-vacation",
     "words": [
       {
         "Id": 251,
@@ -2671,6 +2696,7 @@
     "lesson_name": "Politics and Society",
     "lesson_name_ar": "السياسة والمجتمع",
     "lesson_difficulty": "Advanced",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/political-statement-3d-icon-download-in-png-blend-fbx-gltf-file-formats--announcement-politician-politics-pack-icons-5727622.png?f=webp",
     "urlId": "politics-and-society",
     "words": [
       {
@@ -2765,10 +2791,11 @@
   },
   {
     "lesson_id": 27,
-    "lesson_name": "Business and Economics Vocabulary",
+    "lesson_name": "Business and Economics",
     "lesson_name_ar": "مفردات الأعمال والاقتصاد",
     "lesson_difficulty": "Advanced",
-    "urlId": "business-and-economics-vocabulary",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/business-man-presenting-growth-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--analytics-logo-analysis-presentation-data-report-pack-people-illustrations-3893390.png",
+    "urlId": "business-and-economics",
     "words": [
       {
         "Id": 271,
@@ -2865,6 +2892,7 @@
     "lesson_name": "Education and Learning",
     "lesson_name_ar": "التعليم والتعلم",
     "lesson_difficulty": "Advanced",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/education-3d-icon-download-in-png-blend-fbx-gltf-file-formats--knowledge-books-book-school-pack-icons-5522882.png",
     "urlId": "education-and-learning",
     "words": [
       {
@@ -2962,6 +2990,7 @@
     "lesson_name": "Technology and Internet",
     "lesson_name_ar": "التكنولوجيا والإنترنت",
     "lesson_difficulty": "Advanced",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/technology-3d-icon-download-in-png-blend-fbx-gltf-file-formats--device-computer-business-financial-bussiness-pack-icons-7845696.png?f=webp",
     "urlId": "technology-and-internet",
     "words": [
       {
@@ -3070,6 +3099,7 @@
     "lesson_name": "Philosophical and Abstract Concepts",
     "lesson_name_ar": "المفاهيم الفلسفية والمجردة",
     "lesson_difficulty": "Advanced",
+    "image": "https://cdn3d.iconscout.com/3d/premium/thumb/philosophy-book-2-3d-icon-download-in-png-blend-fbx-gltf-file-formats--wisdom-pack-school-education-icons-9048950.png?f=webp",
     "urlId": "philosophical-and-abstract-concepts",
     "words": [
       {
