@@ -1,0 +1,3143 @@
+[
+  {
+    "lesson_id": 1,
+    "lesson_name": "Common Greetings and Phrases",
+    "lesson_name_ar": "التحيات والعبارات الشائعة",
+    "lesson_difficulty": "Basic",
+    "urlId": "common-greetings-and-phrases",
+    "words": [
+      {
+        "Id": 11,
+        "word": "السلام عليكم",
+        "pronunciation": "As-salāmu ʿalaykum",
+        "meaning": "Peace be upon you",
+        "part_of_speech": "Phrase",
+        "difficulty": "Easy",
+        "Lesson_no": 1,
+        "when_to_say": "Used as a general greeting, particularly in Arabic-speaking countries.",
+        "example": "As-salāmu ʿalaykum, how are you? (As-salāmu ʿalaykum, kayfa ḥāluka?)"
+      },
+      {
+        "Id": 12,
+        "word": "أهلاً وسهلاً",
+        "pronunciation": "Ahlan wa sahlan",
+        "meaning": "Welcome",
+        "part_of_speech": "Phrase",
+        "difficulty": "Easy",
+        "Lesson_no": 1,
+        "when_to_say": "Used to welcome someone, often in a friendly or polite context.",
+        "example": "Ahlan wa sahlan, please come in! (Ahlan wa sahlan, tafaddal!)"
+      },
+      {
+        "Id": 13,
+        "word": "كيف حالك؟",
+        "pronunciation": "Kayfa ḥāluka?",
+        "meaning": "How are you?",
+        "part_of_speech": "Question",
+        "difficulty": "Easy",
+        "Lesson_no": 1,
+        "when_to_say": "Used to ask someone about their well-being.",
+        "example": "Kayfa ḥāluka? أنا بخير. (Kayfa ḥāluka? Ana bikhayr.) – How are you? I am fine."
+      },
+      {
+        "Id": 14,
+        "word": "شكراً",
+        "pronunciation": "Shukran",
+        "meaning": "Thank you",
+        "part_of_speech": "Interjection",
+        "difficulty": "Easy",
+        "Lesson_no": 1,
+        "when_to_say": "Used to express gratitude.",
+        "example": "Shukran for helping me! (Shukran ʿalā musāʿadatī!)"
+      },
+      {
+        "Id": 15,
+        "word": "من فضلك",
+        "pronunciation": "Min faḍlik",
+        "meaning": "Please",
+        "part_of_speech": "Phrase",
+        "difficulty": "Easy",
+        "Lesson_no": 1,
+        "when_to_say": "Used to make a polite request.",
+        "example": "Min faḍlik, can you help me? (Min faḍlik, hal mumkin an tusaʿidīnī?)"
+      },
+      {
+        "Id": 16,
+        "word": "نعم",
+        "pronunciation": "Naʿam",
+        "meaning": "Yes",
+        "part_of_speech": "Adverb",
+        "difficulty": "Easy",
+        "Lesson_no": 1,
+        "when_to_say": "Used to affirm or agree with something.",
+        "example": "Naʿam, I understand. (Naʿam, ana afham.)"
+      },
+      {
+        "Id": 17,
+        "word": "لا",
+        "pronunciation": "Lā",
+        "meaning": "No",
+        "part_of_speech": "Adverb",
+        "difficulty": "Easy",
+        "Lesson_no": 1,
+        "when_to_say": "Used to deny or refuse something.",
+        "example": "Lā, I don't want to go. (Lā, lā urīdu an athhab.)"
+      },
+      {
+        "Id": 18,
+        "word": "صباح الخير",
+        "pronunciation": "Ṣabāḥ al-ḵayr",
+        "meaning": "Good morning",
+        "part_of_speech": "Phrase",
+        "difficulty": "Easy",
+        "Lesson_no": 1,
+        "when_to_say": "Used to greet someone in the morning.",
+        "example": "Ṣabāḥ al-ḵayr! How are you today? (Ṣabāḥ al-ḵayr! Kayfa ḥāluka al-yawm?)"
+      },
+      {
+        "Id": 19,
+        "word": "مساء الخير",
+        "pronunciation": "Masāʾ al-ḵayr",
+        "meaning": "Good evening",
+        "part_of_speech": "Phrase",
+        "difficulty": "Easy",
+        "Lesson_no": 1,
+        "when_to_say": "Used to greet someone in the evening.",
+        "example": "Masāʾ al-ḵayr! How was your day? (Masāʾ al-ḵayr! Kayfa kāna yawmuka?)"
+      },
+      {
+        "Id": 110,
+        "word": "إلى اللقاء",
+        "pronunciation": "Ilā al-liqāʾ",
+        "meaning": "Goodbye",
+        "part_of_speech": "Phrase",
+        "difficulty": "Easy",
+        "Lesson_no": 1,
+        "when_to_say": "Used when parting ways with someone.",
+        "example": "Ilā al-liqāʾ, see you tomorrow! (Ilā al-liqāʾ, arāka ghadān!)"
+      },
+      {
+        "Id": 111,
+        "word": "أهلاً",
+        "pronunciation": "Ahlan",
+        "meaning": "Hello",
+        "part_of_speech": "Interjection",
+        "difficulty": "Easy",
+        "Lesson_no": 1,
+        "when_to_say": "A casual greeting.",
+        "example": "Ahlan, how's it going? (Ahlan, kayfa ḥāluka?)"
+      },
+      {
+        "Id": 112,
+        "word": "لطفاً",
+        "pronunciation": "Luṭfan",
+        "meaning": "Kindly",
+        "part_of_speech": "Adverb",
+        "difficulty": "Medium",
+        "Lesson_no": 1,
+        "when_to_say": "Used to request something politely.",
+        "example": "Luṭfan, could you pass me the salt? (Luṭfan, hal yumkinuk imdādī bāl-milḥ?)"
+      },
+      {
+        "Id": 113,
+        "word": "كيف حالكم؟",
+        "pronunciation": "Kayfa ḥālukum?",
+        "meaning": "How are you? (plural)",
+        "part_of_speech": "Question",
+        "difficulty": "Medium",
+        "Lesson_no": 1,
+        "when_to_say": "Used when asking a group of people how they are.",
+        "example": "Kayfa ḥālukum? (How are you all?)"
+      }
+    ]
+  },
+  {
+    "lesson_id": 2,
+    "lesson_name": "Numbers 1-10",
+    "lesson_name_ar": "الأرقام من 1 إلى 10",
+    "lesson_difficulty": "Basic",
+    "urlId": "numbers-1-10",
+    "words": [
+      {
+        "Id": "21",
+        "word": "واحد",
+        "pronunciation": "Wāḥid",
+        "meaning": "One",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 2,
+        "when_to_say": "Used to refer to the number one.",
+        "example": "عندي واحد فقط. (ʿIndī wāḥid faqaṭ.) – I have one only."
+      },
+      {
+        "Id": "22",
+        "word": "اثنان",
+        "pronunciation": "Ithnān",
+        "meaning": "Two",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 2,
+        "when_to_say": "Used to refer to the number two.",
+        "example": "أنا عندي اثنان من الكتب. (Ana ʿindī ithnān min al-kutub.) – I have two books."
+      },
+      {
+        "Id": "23",
+        "word": "ثلاثة",
+        "pronunciation": "Thalātha",
+        "meaning": "Three",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 2,
+        "when_to_say": "Used to refer to the number three.",
+        "example": "لدينا ثلاثة طلاب في الفصل. (Ladaynā thalātha ṭullāb fī al-foṣl.) – We have three students in the class."
+      },
+      {
+        "Id": "24",
+        "word": "أربعة",
+        "pronunciation": "Arbaʿa",
+        "meaning": "Four",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 2,
+        "when_to_say": "Used to refer to the number four.",
+        "example": "أريد أربعة تفاحات. (Urīd arbaʿa tuffāḥāt.) – I want four apples."
+      },
+      {
+        "Id": "25",
+        "word": "خمسة",
+        "pronunciation": "Khamsa",
+        "meaning": "Five",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 2,
+        "when_to_say": "Used to refer to the number five.",
+        "example": "في جيبي خمسة ريالات. (Fī jībī khamsa riyālāt.) – In my pocket, I have five riyals."
+      },
+      {
+        "Id": "26",
+        "word": "ستة",
+        "pronunciation": "Sitta",
+        "meaning": "Six",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 2,
+        "when_to_say": "Used to refer to the number six.",
+        "example": "سألتني عن ستة أسئلة. (Saʾaltanī ʿan sitta asʾila.) – You asked me six questions."
+      },
+      {
+        "Id": "27",
+        "word": "سبعة",
+        "pronunciation": "Sabʿa",
+        "meaning": "Seven",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 2,
+        "when_to_say": "Used to refer to the number seven.",
+        "example": "أحتاج إلى سبعة أيام للعمل. (Aḥtāj ilā sabʿa ayyām lil-ʿamal.) – I need seven days to work."
+      },
+      {
+        "Id": "28",
+        "word": "ثمانية",
+        "pronunciation": "Thamāniya",
+        "meaning": "Eight",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 2,
+        "when_to_say": "Used to refer to the number eight.",
+        "example": "يعيشون في منزل به ثمانية غرف. (Yaʿīshūn fī manzil bihi thamāniya ghuraf.) – They live in a house with eight rooms."
+      },
+      {
+        "Id": "29",
+        "word": "تسعة",
+        "pronunciation": "Tisʿa",
+        "meaning": "Nine",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 2,
+        "when_to_say": "Used to refer to the number nine.",
+        "example": "رأيت تسعة طيور. (Raʾaytu tisʿa ṭuyūr.) – I saw nine birds."
+      },
+      {
+        "Id": "210",
+        "word": "عشرة",
+        "pronunciation": "ʿAshara",
+        "meaning": "Ten",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 2,
+        "when_to_say": "Used to refer to the number ten.",
+        "example": "هناك عشرة أشخاص في الحفل. (Hunāka ʿashara ashkhāṣ fī al-ḥafl.) – There are ten people at the party."
+      },
+      {
+        "Id": "211",
+        "word": "عدد",
+        "pronunciation": "ʿAdad",
+        "meaning": "Number",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 2,
+        "when_to_say": "Used to refer to a number or count of something.",
+        "example": "كم عدد الكتب في المكتبة؟ (Kam ʿadad al-kutub fī al-maktaba?) – How many books are in the library?"
+      }
+    ]
+  },
+  {
+    "lesson_id": 3,
+    "lesson_name": "Days of the Week",
+    "lesson_name_ar": "أيام الأسبوع",
+    "lesson_difficulty": "Basic",
+    "urlId": "days-of-the-week",
+    "words": [
+      {
+        "Id": "31",
+        "word": "الأحد",
+        "pronunciation": "Al-ʾAḥad",
+        "meaning": "Sunday",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 3,
+        "when_to_say": "Used to refer to the first day of the week.",
+        "example": "الأحد هو أول يوم في الأسبوع. (Al-ʾAḥad huwa ʾawwal yawm fī al-usbūʿ.) – Sunday is the first day of the week."
+      },
+      {
+        "Id": "32",
+        "word": "الإثنين",
+        "pronunciation": "Al-Ithnayn",
+        "meaning": "Monday",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 3,
+        "when_to_say": "Used to refer to the second day of the week.",
+        "example": "أنا أذهب للعمل في الإثنين. (Ana ʾadhhabu lil-ʿamal fī al-Ithnayn.) – I go to work on Monday."
+      },
+      {
+        "Id": "33",
+        "word": "الثلاثاء",
+        "pronunciation": "Ath-Thulāthāʾ",
+        "meaning": "Tuesday",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 3,
+        "when_to_say": "Used to refer to the third day of the week.",
+        "example": "الثلاثاء هو يوم اجتماعنا. (Ath-Thulāthāʾ huwa yawm ʾijtimāʿinā.) – Tuesday is our meeting day."
+      },
+      {
+        "Id": "34",
+        "word": "الأربعاء",
+        "pronunciation": "Al-Arbaʿāʾ",
+        "meaning": "Wednesday",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 3,
+        "when_to_say": "Used to refer to the fourth day of the week.",
+        "example": "نذهب إلى السوق في الأربعاء. (Nadhhabu ilā as-sūq fī al-Arbaʿāʾ.) – We go to the market on Wednesday."
+      },
+      {
+        "Id": "35",
+        "word": "الخميس",
+        "pronunciation": "Al-Khamīs",
+        "meaning": "Thursday",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 3,
+        "when_to_say": "Used to refer to the fifth day of the week.",
+        "example": "الخميس هو يوم نهاية الأسبوع. (Al-Khamīs huwa yawm nihāyat al-usbūʿ.) – Thursday is the day before the weekend."
+      },
+      {
+        "Id": "36",
+        "word": "الجمعة",
+        "pronunciation": "Al-Jumʿa",
+        "meaning": "Friday",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 3,
+        "when_to_say": "Used to refer to the sixth day of the week, typically a day for prayer and rest.",
+        "example": "الجمعة يوم العطلة. (Al-Jumʿa yawm al-ʿuṭla.) – Friday is the holiday (day off)."
+      },
+      {
+        "Id": "37",
+        "word": "السبت",
+        "pronunciation": "As-Sabt",
+        "meaning": "Saturday",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 3,
+        "when_to_say": "Used to refer to the seventh day of the week.",
+        "example": "السبت هو بداية الأسبوع. (As-Sabt huwa bidāyat al-usbūʿ.) – Saturday is the start of the week."
+      },
+      {
+        "Id": "38",
+        "word": "أيام الأسبوع",
+        "pronunciation": "Ayyām al-usbūʿ",
+        "meaning": "Days of the week",
+        "part_of_speech": "Phrase",
+        "difficulty": "Easy",
+        "Lesson_no": 3,
+        "when_to_say": "Used to refer to the days in the weekly cycle.",
+        "example": "أيام الأسبوع هي الأحد، الإثنين، الثلاثاء... (Ayyām al-usbūʿ hiya al-ʾAḥad, al-Ithnayn, ath-Thulāthāʾ...) – The days of the week are Sunday, Monday, Tuesday..."
+      },
+      {
+        "Id": "39",
+        "word": "اليوم",
+        "pronunciation": "Al-Yawm",
+        "meaning": "Today",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 3,
+        "when_to_say": "Used to refer to the current day.",
+        "example": "اليوم هو الخميس. (Al-Yawm huwa al-Khamīs.) – Today is Thursday."
+      },
+      {
+        "Id": "310",
+        "word": "الأسبوع",
+        "pronunciation": "Al-Usbūʿ",
+        "meaning": "Week",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 3,
+        "when_to_say": "Used to refer to the seven-day period from Sunday to Saturday.",
+        "example": "الأسبوع يتكون من سبعة أيام. (Al-Usbūʿ yatakawwān min sabʿat ayyām.) – The week consists of seven days."
+      },
+      {
+        "Id": "311",
+        "word": "غداً",
+        "pronunciation": "Ghadan",
+        "meaning": "Tomorrow",
+        "part_of_speech": "Adverb",
+        "difficulty": "Medium",
+        "Lesson_no": 3,
+        "when_to_say": "Used to refer to the day after today.",
+        "example": "غداً سأذهب إلى المدرسة. (Ghadan saʾadhhabu ilā al-madrasa.) – Tomorrow, I will go to school."
+      },
+      {
+        "Id": "312",
+        "word": "البارحة",
+        "pronunciation": "Al-Bāriḥa",
+        "meaning": "Yesterday",
+        "part_of_speech": "Noun",
+        "difficulty": "Medium",
+        "Lesson_no": 3,
+        "when_to_say": "Used to refer to the day before today.",
+        "example": "البارحة كان يوم الجمعة. (Al-Bāriḥa kān yawm al-Jumʿa.) – Yesterday was Friday."
+      },
+      {
+        "Id": "313",
+        "word": "إجازة الأسبوع",
+        "pronunciation": "Ijāzat al-usbūʿ",
+        "meaning": "Weekend",
+        "part_of_speech": "Noun",
+        "difficulty": "Medium",
+        "Lesson_no": 3,
+        "when_to_say": "Used to refer to the weekend, usually Friday and Saturday in many Arab countries.",
+        "example": "إجازة الأسبوع تبدأ يوم الجمعة. (Ijāzat al-usbūʿ tabdaʾ yawm al-Jumʿa.) – The weekend starts on Friday."
+      }
+    ]
+  },
+  {
+    "lesson_id": 4,
+    "lesson_name": "Family and Relationships",
+    "lesson_name_ar": "العائلة والعلاقات",
+    "lesson_difficulty": "Basic",
+    "urlId": "family-and-relationships",
+    "words": [
+      {
+        "Id": "41",
+        "word": "أب",
+        "pronunciation": "Ab",
+        "meaning": "Father",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 4,
+        "when_to_say": "Used to refer to your father or a father figure.",
+        "example": "أبي يعمل في المستشفى. (Abī yaʿmal fī al-mustashfā.) – My father works in the hospital."
+      },
+      {
+        "Id": "42",
+        "word": "أم",
+        "pronunciation": "Umm",
+        "meaning": "Mother",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 4,
+        "when_to_say": "Used to refer to your mother or a mother figure.",
+        "example": "أمي طباخة ممتازة. (Ummī ṭabbākha mumtāza.) – My mother is an excellent cook."
+      },
+      {
+        "Id": "43",
+        "word": "أخ",
+        "pronunciation": "Akh",
+        "meaning": "Brother",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 4,
+        "when_to_say": "Used to refer to your brother.",
+        "example": "أخي يدرس في الجامعة. (Akhī yadrus fī al-jāmiʿa.) – My brother studies at the university."
+      },
+      {
+        "Id": "44",
+        "word": "أخت",
+        "pronunciation": "Ukht",
+        "meaning": "Sister",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 4,
+        "when_to_say": "Used to refer to your sister.",
+        "example": "أختي تحب القراءة. (Ukhtī tuḥibb al-qirāʾa.) – My sister loves reading."
+      },
+      {
+        "Id": "45",
+        "word": "زوج",
+        "pronunciation": "Zawj",
+        "meaning": "Husband",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 4,
+        "when_to_say": "Used to refer to your husband.",
+        "example": "زوجي يعمل مهندساً. (Zawjī yaʿmal muhandisan.) – My husband works as an engineer."
+      },
+      {
+        "Id": "46",
+        "word": "زوجة",
+        "pronunciation": "Zawja",
+        "meaning": "Wife",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 4,
+        "when_to_say": "Used to refer to your wife.",
+        "example": "زوجتي معلمة في المدرسة. (Zawjatī muʿallima fī al-madrasa.) – My wife is a teacher at the school."
+      },
+      {
+        "Id": "47",
+        "word": "ابن",
+        "pronunciation": "Ibn",
+        "meaning": "Son",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 4,
+        "when_to_say": "Used to refer to your son.",
+        "example": "ابني يحب كرة القدم. (Ibnī yuḥibb kurat al-qadam.) – My son loves soccer."
+      },
+      {
+        "Id": "48",
+        "word": "ابنة",
+        "pronunciation": "Ibna",
+        "meaning": "Daughter",
+        "part_of_speech": "Noun",
+        "difficulty": "Easy",
+        "Lesson_no": 4,
+        "when_to_say": "Used to refer to your daughter.",
+        "example": "ابنتي تدرس في المدرسة. (Ibnatī tadrus fī al-madrasa.) – My daughter studies at the school."
+      },
+      {
+        "Id": "49",
+        "word": "جد",
+        "pronunciation": "Jadd",
+        "meaning": "Grandfather",
+        "part_of_speech": "Noun",
+        "difficulty": "Medium",
+        "Lesson_no": 4,
+        "when_to_say": "Used to refer to your grandfather.",
+        "example": "جدي يحب القراءة. (Jaddī yuḥibb al-qirāʾa.) – My grandfather loves reading."
+      },
+      {
+        "Id": "410",
+        "word": "جدة",
+        "pronunciation": "Jadda",
+        "meaning": "Grandmother",
+        "part_of_speech": "Noun",
+        "difficulty": "Medium",
+        "Lesson_no": 4,
+        "when_to_say": "Used to refer to your grandmother.",
+        "example": "جدتي طيبة جداً. (Jaddatī ṭayyiba jiddan.) – My grandmother is very kind."
+      }
+    ]
+  },
+  {
+    "lesson_id": 5,
+    "lesson_name": "Colors",
+    "lesson_name_ar": "الألوان",
+    "lesson_difficulty": "Basic",
+    "urlId": "colors",
+    "words": [
+      {
+        "Id": "51",
+        "word": "أحمر",
+        "pronunciation": "Aḥmar",
+        "meaning": "Red",
+        "part_of_speech": "Adjective",
+        "difficulty": "Easy",
+        "Lesson_no": 5,
+        "when_to_say": "Used to describe the color red.",
+        "example": "الوردة حمراء. (Al-warda ḥamrāʾ.) – The flower is red."
+      },
+      {
+        "Id": "52",
+        "word": "أزرق",
+        "pronunciation": "Azraq",
+        "meaning": "Blue",
+        "part_of_speech": "Adjective",
+        "difficulty": "Easy",
+        "Lesson_no": 5,
+        "when_to_say": "Used to describe the color blue.",
+        "example": "البحر أزرق. (Al-baḥr azraq.) – The sea is blue."
+      },
+      {
+        "Id": "53",
+        "word": "أخضر",
+        "pronunciation": "Akhḍar",
+        "meaning": "Green",
+        "part_of_speech": "Adjective",
+        "difficulty": "Easy",
+        "Lesson_no": 5,
+        "when_to_say": "Used to describe the color green.",
+        "example": "العشب أخضر. (Al-ʿushb akhḍar.) – The grass is green."
+      },
+      {
+        "Id": "54",
+        "word": "أصفر",
+        "pronunciation": "Aṣfar",
+        "meaning": "Yellow",
+        "part_of_speech": "Adjective",
+        "difficulty": "Easy",
+        "Lesson_no": 5,
+        "when_to_say": "Used to describe the color yellow.",
+        "example": "الليمون أصفر. (Al-laymūn aṣfar.) – The lemon is yellow."
+      },
+      {
+        "Id": "55",
+        "word": "برتقالي",
+        "pronunciation": "Burtuqālī",
+        "meaning": "Orange",
+        "part_of_speech": "Adjective",
+        "difficulty": "Easy",
+        "Lesson_no": 5,
+        "when_to_say": "Used to describe the color orange.",
+        "example": "البرتقال برتقالي. (Al-burtuqāl burtuqālī.) – The orange is orange."
+      },
+      {
+        "Id": "56",
+        "word": "بنفسجي",
+        "pronunciation": "Banafsajī",
+        "meaning": "Purple",
+        "part_of_speech": "Adjective",
+        "difficulty": "Medium",
+        "Lesson_no": 5,
+        "when_to_say": "Used to describe the color purple.",
+        "example": "الزهور بنفسجية. (Az-zuhūr banafsajīyah.) – The flowers are purple."
+      },
+      {
+        "Id": "57",
+        "word": "زهري",
+        "pronunciation": "Zahrī",
+        "meaning": "Pink",
+        "part_of_speech": "Adjective",
+        "difficulty": "Medium",
+        "Lesson_no": 5,
+        "when_to_say": "Used to describe the color pink.",
+        "example": "الفستان زهري. (Al-fustān zahrī.) – The dress is pink."
+      },
+      {
+        "Id": "58",
+        "word": "أسود",
+        "pronunciation": "Aswad",
+        "meaning": "Black",
+        "part_of_speech": "Adjective",
+        "difficulty": "Easy",
+        "Lesson_no": 5,
+        "when_to_say": "Used to describe the color black.",
+        "example": "القط أسود. (Al-qiṭṭ aswad.) – The cat is black."
+      },
+      {
+        "Id": "59",
+        "word": "أبيض",
+        "pronunciation": "Abyaḍ",
+        "meaning": "White",
+        "part_of_speech": "Adjective",
+        "difficulty": "Easy",
+        "Lesson_no": 5,
+        "when_to_say": "Used to describe the color white.",
+        "example": "السحاب أبيض. (As-sahāb abyaḍ.) – The cloud is white."
+      },
+      {
+        "Id": "510",
+        "word": "رمادي",
+        "pronunciation": "Ramādī",
+        "meaning": "Gray",
+        "part_of_speech": "Adjective",
+        "difficulty": "Medium",
+        "Lesson_no": 5,
+        "when_to_say": "Used to describe the color gray.",
+        "example": "السيارة رمادية. (As-sayyārah ramādīyah.) – The car is gray."
+      },
+      {
+        "Id": "511",
+        "word": "بني",
+        "pronunciation": "Bunnī",
+        "meaning": "Brown",
+        "part_of_speech": "Adjective",
+        "difficulty": "Medium",
+        "Lesson_no": 5,
+        "when_to_say": "Used to describe the color brown.",
+        "example": "الشجرة بنيّة. (Ash-shajarah bunnīyah.) – The tree is brown."
+      },
+      {
+        "Id": "512",
+        "word": "ذهبي",
+        "pronunciation": "Dhahabī",
+        "meaning": "Gold",
+        "part_of_speech": "Adjective",
+        "difficulty": "Medium",
+        "Lesson_no": 5,
+        "when_to_say": "Used to describe the color gold.",
+        "example": "القلادة ذهبية. (Al-qalādah dhahabīyah.) – The necklace is gold."
+      },
+      {
+        "Id": "513",
+        "word": "فضي",
+        "pronunciation": "Faḍḍī",
+        "meaning": "Silver",
+        "part_of_speech": "Adjective",
+        "difficulty": "Medium",
+        "Lesson_no": 5,
+        "when_to_say": "Used to describe the color silver.",
+        "example": "السلسلة فضية. (As-silsilah faḍḍīyah.) – The chain is silver."
+      },
+      {
+        "Id": "514",
+        "word": "تركوازي",
+        "pronunciation": "Tarkwazī",
+        "meaning": "Turquoise",
+        "part_of_speech": "Adjective",
+        "difficulty": "Medium",
+        "Lesson_no": 5,
+        "when_to_say": "Used to describe the color turquoise.",
+        "example": "المرآة تركوازية. (Al-mir'āh tarkwāzīyah.) – The mirror is turquoise."
+      },
+      {
+        "Id": "515",
+        "word": "لؤلؤي",
+        "pronunciation": "Lu'lu'ī",
+        "meaning": "Pearl",
+        "part_of_speech": "Adjective",
+        "difficulty": "Medium",
+        "Lesson_no": 5,
+        "when_to_say": "Used to describe the color pearl.",
+        "example": "المجوهرات لؤلؤية. (Al-majūhārāt lu'lu'īyah.) – The jewelry is pearl-colored."
+      },
+      {
+        "Id": "516",
+        "word": "كحلي",
+        "pronunciation": "Kaḥlī",
+        "meaning": "Navy Blue",
+        "part_of_speech": "Adjective",
+        "difficulty": "Medium",
+        "Lesson_no": 5,
+        "when_to_say": "Used to describe the color navy blue.",
+        "example": "السترة كحلية. (Al-sutrah kaḥlīyah.) – The jacket is navy blue."
+      }
+    ]
+  },
+  {
+    "lesson_id": 6,
+    "lesson_name": "Common Adjectives",
+    "lesson_name_ar": "الصفات الشائعة",
+    "lesson_difficulty": "Basic",
+    "urlId": "common-adjectives",
+    "words": [
+      {
+        "Id": 61,
+        "word": "جميل",
+        "pronunciation": "Jameel",
+        "meaning": "Beautiful",
+        "part_of_speech": "Adjective",
+        "difficulty": "Basic",
+        "Lesson_no": 6,
+        "when_to_say": "Used to describe something or someone as aesthetically pleasing.",
+        "example": "الزهرة جميلة. (Al-zahra jameela) - The flower is beautiful."
+      },
+      {
+        "Id": 62,
+        "word": "كبير",
+        "pronunciation": "Kabeer",
+        "meaning": "Big, Large",
+        "part_of_speech": "Adjective",
+        "difficulty": "Basic",
+        "Lesson_no": 6,
+        "when_to_say": "Used to describe something large in size.",
+        "example": "المنزل كبير. (Al-manzil kabeer) - The house is big."
+      },
+      {
+        "Id": 63,
+        "word": "صغير",
+        "pronunciation": "Saghir",
+        "meaning": "Small, Little",
+        "part_of_speech": "Adjective",
+        "difficulty": "Basic",
+        "Lesson_no": 6,
+        "when_to_say": "Used to describe something small in size.",
+        "example": "الطفل صغير. (Al-ṭifl sagheer) - The child is small."
+      },
+      {
+        "Id": 64,
+        "word": "سريع",
+        "pronunciation": "Sareeʿ",
+        "meaning": "Fast, Quick",
+        "part_of_speech": "Adjective",
+        "difficulty": "Basic",
+        "Lesson_no": 6,
+        "when_to_say": "Used to describe something that moves or happens quickly.",
+        "example": "السيارة سريعة. (Al-sayara sareeʿa) - The car is fast."
+      },
+      {
+        "Id": 65,
+        "word": "طويل",
+        "pronunciation": "Taweel",
+        "meaning": "Tall, Long",
+        "part_of_speech": "Adjective",
+        "difficulty": "Basic",
+        "Lesson_no": 6,
+        "when_to_say": "Used to describe something tall in height or long in length.",
+        "example": "الشجرة طويلة. (Al-shajarah taweela) - The tree is tall."
+      },
+      {
+        "Id": 66,
+        "word": "قوي",
+        "pronunciation": "Qawi",
+        "meaning": "Strong",
+        "part_of_speech": "Adjective",
+        "difficulty": "Basic",
+        "Lesson_no": 6,
+        "when_to_say": "Used to describe something or someone with great strength or power.",
+        "example": "الرجل قوي. (Al-rajul qawi) - The man is strong."
+      },
+      {
+        "Id": 67,
+        "word": "لطيف",
+        "pronunciation": "Lateef",
+        "meaning": "Kind, Nice",
+        "part_of_speech": "Adjective",
+        "difficulty": "Basic",
+        "Lesson_no": 6,
+        "when_to_say": "Used to describe someone or something that is pleasant or friendly.",
+        "example": "الطفل لطيف. (Al-ṭifl lateef) - The child is kind."
+      },
+      {
+        "Id": 68,
+        "word": "ساخن",
+        "pronunciation": "Saakhen",
+        "meaning": "Hot",
+        "part_of_speech": "Adjective",
+        "difficulty": "Basic",
+        "Lesson_no": 6,
+        "when_to_say": "Used to describe something with high temperature.",
+        "example": "الشاي ساخن. (Al-shay saakhen) - The tea is hot."
+      }
+    ]
+  },
+  {
+    "lesson_id": 7,
+    "lesson_name": "Basic Food Vocabulary",
+    "lesson_name_ar": "مفردات الطعام الأساسية",
+    "lesson_difficulty": "Basic",
+    "urlId": "basic-food-vocabulary",
+    "words": [
+      {
+        "Id": 71,
+        "word": "خبز",
+        "pronunciation": "Khubz",
+        "meaning": "Bread",
+        "part_of_speech": "Noun",
+        "difficulty": "Basic",
+        "Lesson_no": 7,
+        "when_to_say": "Used to refer to the staple food made from flour and water, commonly baked.",
+        "example": "أريد خبزًا. (Ureed khubzan) - I want bread."
+      },
+      {
+        "Id": 72,
+        "word": "أرز",
+        "pronunciation": "Arz",
+        "meaning": "Rice",
+        "part_of_speech": "Noun",
+        "difficulty": "Basic",
+        "Lesson_no": 7,
+        "when_to_say": "Used to refer to the staple grain often eaten with meals.",
+        "example": "الأرز لذيذ. (Al-arz ladheeth) - The rice is delicious."
+      },
+      {
+        "Id": 73,
+        "word": "فواكه",
+        "pronunciation": "Fawakih",
+        "meaning": "Fruits",
+        "part_of_speech": "Noun",
+        "difficulty": "Basic",
+        "Lesson_no": 7,
+        "when_to_say": "Used to refer to sweet, edible fruits.",
+        "example": "أحب الفواكه. (Uhibb al-fawakih) - I love fruits."
+      },
+      {
+        "Id": 74,
+        "word": "لحم",
+        "pronunciation": "Lahm",
+        "meaning": "Meat",
+        "part_of_speech": "Noun",
+        "difficulty": "Basic",
+        "Lesson_no": 7,
+        "when_to_say": "Used to refer to the edible flesh of animals.",
+        "example": "أريد لحمًا. (Ureed lahman) - I want meat."
+      },
+      {
+        "Id": 75,
+        "word": "دجاج",
+        "pronunciation": "Dajāj",
+        "meaning": "Chicken",
+        "part_of_speech": "Noun",
+        "difficulty": "Basic",
+        "Lesson_no": 7,
+        "when_to_say": "Used to refer to the poultry meat.",
+        "example": "أحب الدجاج. (Uhibb al-dajaj) - I love chicken."
+      },
+      {
+        "Id": 76,
+        "word": "خضروات",
+        "pronunciation": "Khodrawat",
+        "meaning": "Vegetables",
+        "part_of_speech": "Noun",
+        "difficulty": "Basic",
+        "Lesson_no": 7,
+        "when_to_say": "Used to refer to plant-based food such as spinach, carrots, etc.",
+        "example": "الخضروات صحية. (Al-khodrawat sahia) - Vegetables are healthy."
+      },
+      {
+        "Id": 77,
+        "word": "جبن",
+        "pronunciation": "Jubn",
+        "meaning": "Cheese",
+        "part_of_speech": "Noun",
+        "difficulty": "Basic",
+        "Lesson_no": 7,
+        "when_to_say": "Used to refer to the dairy product made from milk.",
+        "example": "أريد جبنًا. (Ureed jubnan) - I want cheese."
+      },
+      {
+        "Id": 78,
+        "word": "حساء",
+        "pronunciation": "Hasa'a",
+        "meaning": "Soup",
+        "part_of_speech": "Noun",
+        "difficulty": "Basic",
+        "Lesson_no": 7,
+        "when_to_say": "Used to refer to a liquid dish made by boiling meat, vegetables, or legumes.",
+        "example": "أحب الحساء. (Uhibb al-hasa'a) - I love soup."
+      },
+      {
+        "Id": 79,
+        "word": "ماء",
+        "pronunciation": "Ma'a",
+        "meaning": "Water",
+        "part_of_speech": "Noun",
+        "difficulty": "Basic",
+        "Lesson_no": 7,
+        "when_to_say": "Used to refer to the essential liquid for life.",
+        "example": "أريد ماءً. (Ureed ma'an) - I want water."
+      },
+      {
+        "Id": 710,
+        "word": "حلوى",
+        "pronunciation": "Halwa",
+        "meaning": "Sweets, Dessert",
+        "part_of_speech": "Noun",
+        "difficulty": "Basic",
+        "Lesson_no": 7,
+        "when_to_say": "Used to refer to sugary foods or desserts.",
+        "example": "الطعام لذيذ لكنني أريد الحلوى. (Al-ta'am ladheez lakinani ureed al-halwa) - The food is delicious, but I want dessert."
+      }
+    ]
+  },
+  {
+    "lesson_id": 8,
+    "lesson_name": "Places Around Town",
+    "lesson_name_ar": "أماكن في المدينة",
+    "lesson_difficulty": "Basic",
+    "urlId": "places-around-town",
+    "words": [
+      {
+        "Id": 81,
+        "word": "مكتبة",
+        "pronunciation": "Maktabah",
+        "meaning": "Library",
+        "part_of_speech": "Noun",
+        "difficulty": "Basic",
+        "Lesson_no": 8,
+        "when_to_say": "Used when referring to a place where books are kept for reading or borrowing.",
+        "example": "أذهب إلى المكتبة للدراسة. (I go to the library to study.)"
+      },
+      {
+        "Id": 82,
+        "word": "مستشفى",
+        "pronunciation": "Mustashfā",
+        "meaning": "Hospital",
+        "part_of_speech": "Noun",
+        "difficulty": "Basic",
+        "Lesson_no": 8,
+        "when_to_say": "Used when referring to a place for medical treatment.",
+        "example": "أحتاج إلى الذهاب إلى المستشفى. (I need to go to the hospital.)"
+      },
+      {
+        "Id": 83,
+        "word": "مدرسة",
+        "pronunciation": "Madrasa",
+        "meaning": "School",
+        "part_of_speech": "Noun",
+        "difficulty": "Basic",
+        "Lesson_no": 8,
+        "when_to_say": "Used when talking about an educational institution.",
+        "example": "أطفالي يذهبون إلى المدرسة. (My children go to school.)"
+      },
+      {
+        "Id": 84,
+        "word": "مقهى",
+        "pronunciation": "Maqḥā",
+        "meaning": "Café",
+        "part_of_speech": "Noun",
+        "difficulty": "Basic",
+        "Lesson_no": 8,
+        "when_to_say": "Used when referring to a place where coffee or tea is served.",
+        "example": "أحب شرب القهوة في المقهى. (I like drinking coffee at the café.)"
+      },
+      {
+        "Id": 85,
+        "word": "سوبر ماركت",
+        "pronunciation": "Sūbir Mārkit",
+        "meaning": "Supermarket",
+        "part_of_speech": "Noun",
+        "difficulty": "Basic",
+        "Lesson_no": 8,
+        "when_to_say": "Used when referring to a large store that sells food and other goods.",
+        "example": "أذهب إلى السوبر ماركت لشراء الطعام. (I go to the supermarket to buy food.)"
+      },
+      {
+        "Id": 86,
+        "word": "حديقة",
+        "pronunciation": "Ḥadīqah",
+        "meaning": "Park",
+        "part_of_speech": "Noun",
+        "difficulty": "Basic",
+        "Lesson_no": 8,
+        "when_to_say": "Used when talking about a green space for leisure and relaxation.",
+        "example": "نحب الذهاب إلى الحديقة في عطلة نهاية الأسبوع. (We like going to the park on the weekend.)"
+      },
+      {
+        "Id": 87,
+        "word": "مطعم",
+        "pronunciation": "Maṭʿam",
+        "meaning": "Restaurant",
+        "part_of_speech": "Noun",
+        "difficulty": "Basic",
+        "Lesson_no": 8,
+        "when_to_say": "Used when referring to a place where meals are served to customers.",
+        "example": "نحن نذهب إلى المطعم لتناول العشاء. (We go to the restaurant for dinner.)"
+      },
+      {
+        "Id": 88,
+        "word": "مسجد",
+        "pronunciation": "Masjid",
+        "meaning": "Mosque",
+        "part_of_speech": "Noun",
+        "difficulty": "Basic",
+        "Lesson_no": 8,
+        "when_to_say": "Used when referring to a place of worship in Islam.",
+        "example": "أذهب إلى المسجد للصلاة. (I go to the mosque to pray.)"
+      },
+      {
+        "Id": 89,
+        "word": "محطة قطار",
+        "pronunciation": "Maḥaṭṭat Qiṭār",
+        "meaning": "Train station",
+        "part_of_speech": "Noun",
+        "difficulty": "Basic",
+        "Lesson_no": 8,
+        "when_to_say": "Used when referring to a location where trains stop to pick up or drop off passengers.",
+        "example": "القطار سيصل إلى محطة القطار في الساعة التاسعة. (The train will arrive at the train station at 9 o'clock.)"
+      }
+    ]
+  },
+  {
+    "lesson_id": 9,
+    "lesson_name": "Essential Verbs",
+    "lesson_name_ar": "الأفعال الأساسية",
+    "lesson_difficulty": "Basic",
+    "urlId": "essential-verbs",
+    "words": [
+      {
+        "Id": 91,
+        "word": "أكل",
+        "pronunciation": "Akl",
+        "meaning": "To eat",
+        "part_of_speech": "Verb",
+        "difficulty": "Basic",
+        "Lesson_no": 9,
+        "when_to_say": "Used when referring to the action of eating.",
+        "example": "أنا آكل الآن. (Ana akul al-aan) - I am eating now."
+      },
+      {
+        "Id": 92,
+        "word": "شرب",
+        "pronunciation": "Sharab",
+        "meaning": "To drink",
+        "part_of_speech": "Verb",
+        "difficulty": "Basic",
+        "Lesson_no": 9,
+        "when_to_say": "Used when referring to the action of drinking.",
+        "example": "أشرب الماء. (Ashrab al-ma'a) - I am drinking water."
+      },
+      {
+        "Id": 93,
+        "word": "ذهب",
+        "pronunciation": "Dhahab",
+        "meaning": "To go",
+        "part_of_speech": "Verb",
+        "difficulty": "Basic",
+        "Lesson_no": 9,
+        "when_to_say": "Used to indicate movement or travel from one place to another.",
+        "example": "أذهب إلى المدرسة. (Adhab ila al-madrasa) - I go to school."
+      },
+      {
+        "Id": 94,
+        "word": "جاء",
+        "pronunciation": "Ja'a",
+        "meaning": "To come",
+        "part_of_speech": "Verb",
+        "difficulty": "Basic",
+        "Lesson_no": 9,
+        "when_to_say": "Used when indicating motion towards the speaker.",
+        "example": "هو جاء إلى المنزل. (Huwa ja'a ila al-manzil) - He came to the house."
+      },
+      {
+        "Id": 95,
+        "word": "فعل",
+        "pronunciation": "Fa'al",
+        "meaning": "To do",
+        "part_of_speech": "Verb",
+        "difficulty": "Basic",
+        "Lesson_no": 9,
+        "when_to_say": "Used to indicate the act of doing something.",
+        "example": "ماذا فعلت؟ (Mada fa'alt?) - What did you do?"
+      },
+      {
+        "Id": 96,
+        "word": "رأى",
+        "pronunciation": "Ra'a",
+        "meaning": "To see",
+        "part_of_speech": "Verb",
+        "difficulty": "Basic",
+        "Lesson_no": 9,
+        "when_to_say": "Used when talking about the action of seeing something with one's eyes.",
+        "example": "أنا رأيت الفيلم. (Ana ra'aytu al-film) - I saw the movie."
+      },
+      {
+        "Id": 97,
+        "word": "كتب",
+        "pronunciation": "Kataba",
+        "meaning": "To write",
+        "part_of_speech": "Verb",
+        "difficulty": "Basic",
+        "Lesson_no": 9,
+        "when_to_say": "Used when talking about the action of writing something.",
+        "example": "هو يكتب رسالة. (Huwa yaktub risāla) - He is writing a letter."
+      },
+      {
+        "Id": 98,
+        "word": "سأل",
+        "pronunciation": "Sa'ala",
+        "meaning": "To ask",
+        "part_of_speech": "Verb",
+        "difficulty": "Basic",
+        "Lesson_no": 9,
+        "when_to_say": "Used when referring to the action of asking a question.",
+        "example": "سألت المعلم. (Sa'altu al-mu'allim) - I asked the teacher."
+      }
+    ]
+  },
+  {
+    "lesson_id": 10,
+    "lesson_name": "Weather Vocabulary",
+    "lesson_name_ar": "مفردات الطقس",
+    "lesson_difficulty": "Basic",
+    "urlId": "weather-vocabulary",
+    "words": [
+      {
+        "Id": 101,
+        "word": "شمس",
+        "pronunciation": "Shams",
+        "meaning": "Sun",
+        "part_of_speech": "Noun",
+        "difficulty": "Basic",
+        "Lesson_no": 10,
+        "when_to_say": "Used when talking about the star at the center of our solar system, or the weather condition when it is bright and clear.",
+        "example": "اليوم الشمس ساطعة. (Today, the sun is shining.)"
+      },
+      {
+        "Id": 102,
+        "word": "ممطر",
+        "pronunciation": "Mumṭir",
+        "meaning": "Rainy",
+        "part_of_speech": "Adjective",
+        "difficulty": "Basic",
+        "Lesson_no": 10,
+        "when_to_say": "Used when describing weather that involves rain.",
+        "example": "الطقس اليوم ممطر. (The weather today is rainy.)"
+      },
+      {
+        "Id": 103,
+        "word": "ثلج",
+        "pronunciation": "Thalj",
+        "meaning": "Snow",
+        "part_of_speech": "Noun",
+        "difficulty": "Basic",
+        "Lesson_no": 10,
+        "when_to_say": "Used when referring to frozen precipitation that falls in the form of snowflakes.",
+        "example": "سوف يسقط الثلج هذا المساء. (It will snow this evening.)"
+      },
+      {
+        "Id": 104,
+        "word": "عاصفة",
+        "pronunciation": "ʿĀṣifah",
+        "meaning": "Storm",
+        "part_of_speech": "Noun",
+        "difficulty": "Basic",
+        "Lesson_no": 10,
+        "when_to_say": "Used to describe strong winds and severe weather conditions, often accompanied by rain, snow, or hail.",
+        "example": "هناك عاصفة قادمة. (There is a storm coming.)"
+      },
+      {
+        "Id": 105,
+        "word": "غائم",
+        "pronunciation": "Ghā'im",
+        "meaning": "Cloudy",
+        "part_of_speech": "Adjective",
+        "difficulty": "Basic",
+        "Lesson_no": 10,
+        "when_to_say": "Used to describe weather when the sky is covered by clouds and there is little or no sunlight.",
+        "example": "اليوم الجو غائم. (The weather today is cloudy.)"
+      },
+      {
+        "Id": 106,
+        "word": "حار",
+        "pronunciation": "Ḥār",
+        "meaning": "Hot",
+        "part_of_speech": "Adjective",
+        "difficulty": "Basic",
+        "Lesson_no": 10,
+        "when_to_say": "Used to describe weather when the temperature is high and uncomfortable.",
+        "example": "الطقس حار جدا اليوم. (The weather is very hot today.)"
+      }
+    ]
+  },
+  {
+    "lesson_id": 11,
+    "lesson_name": "Numbers 11-100",
+    "lesson_name_ar": "الأرقام من 11 إلى 100",
+    "lesson_difficulty": "Intermediate",
+    "urlId": "numbers-11-100",
+    "words": [
+      {
+        "Id": 111,
+        "word": "إحدى عشرة",
+        "pronunciation": "Iḥdā ʿashara",
+        "meaning": "Eleven",
+        "part_of_speech": "Number",
+        "difficulty": "Intermediate",
+        "Lesson_no": 11,
+        "when_to_say": "Used when referring to the number 11 in Arabic.",
+        "example": "لديّ إحدى عشرة كرة. (I have eleven balls.)"
+      },
+      {
+        "Id": 112,
+        "word": "إثنا عشر",
+        "pronunciation": "Iṯnā ʿashara",
+        "meaning": "Twelve",
+        "part_of_speech": "Number",
+        "difficulty": "Intermediate",
+        "Lesson_no": 11,
+        "when_to_say": "Used when referring to the number 12 in Arabic.",
+        "example": "هناك إثنا عشر طالبًا في الصف. (There are twelve students in the class.)"
+      },
+      {
+        "Id": 113,
+        "word": "عشرون",
+        "pronunciation": "ʿIshrūn",
+        "meaning": "Twenty",
+        "part_of_speech": "Number",
+        "difficulty": "Intermediate",
+        "Lesson_no": 11,
+        "when_to_say": "Used when referring to the number 20 in Arabic.",
+        "example": "أحتاج إلى عشرين دقيقة. (I need twenty minutes.)"
+      },
+      {
+        "Id": 114,
+        "word": "ثلاثون",
+        "pronunciation": "Thalāthūn",
+        "meaning": "Thirty",
+        "part_of_speech": "Number",
+        "difficulty": "Intermediate",
+        "Lesson_no": 11,
+        "when_to_say": "Used when referring to the number 30 in Arabic.",
+        "example": "هو في الثلاثين من عمره. (He is in his thirties.)"
+      },
+      {
+        "Id": 115,
+        "word": "أربعون",
+        "pronunciation": "Arbaʿūn",
+        "meaning": "Forty",
+        "part_of_speech": "Number",
+        "difficulty": "Intermediate",
+        "Lesson_no": 11,
+        "when_to_say": "Used when referring to the number 40 in Arabic.",
+        "example": "الساعة الرابعة والأربعون دقيقة. (The time is four forty.)"
+      },
+      {
+        "Id": 116,
+        "word": "خمسون",
+        "pronunciation": "Khamsūn",
+        "meaning": "Fifty",
+        "part_of_speech": "Number",
+        "difficulty": "Intermediate",
+        "Lesson_no": 11,
+        "when_to_say": "Used when referring to the number 50 in Arabic.",
+        "example": "الكتاب ثمنه خمسون ريالًا. (The book costs fifty riyals.)"
+      },
+      {
+        "Id": 117,
+        "word": "ستون",
+        "pronunciation": "Sittūn",
+        "meaning": "Sixty",
+        "part_of_speech": "Number",
+        "difficulty": "Intermediate",
+        "Lesson_no": 11,
+        "when_to_say": "Used when referring to the number 60 in Arabic.",
+        "example": "في الساعة السادسة والستين دقيقة. (At six sixty.)"
+      },
+      {
+        "Id": 118,
+        "word": "سبعون",
+        "pronunciation": "Sabʿūn",
+        "meaning": "Seventy",
+        "part_of_speech": "Number",
+        "difficulty": "Intermediate",
+        "Lesson_no": 11,
+        "when_to_say": "Used when referring to the number 70 in Arabic.",
+        "example": "هناك سبعون شخصًا في الحفل. (There are seventy people at the party.)"
+      }
+    ]
+  },
+  {
+    "lesson_id": 12,
+    "lesson_name": "Common Occupations",
+    "lesson_name_ar": "المهن الشائعة",
+    "lesson_difficulty": "Intermediate",
+    "urlId": "common-occupations",
+    "words": [
+      {
+        "Id": 121,
+        "word": "طبيب",
+        "pronunciation": "Tabeeb",
+        "meaning": "Doctor",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 12,
+        "when_to_say": "Used to refer to a medical professional who treats illnesses.",
+        "example": "الطبيب يعالج المرضى. (Al-tabeeb yu'ālij al-marda) - The doctor treats the patients."
+      },
+      {
+        "Id": 122,
+        "word": "مهندس",
+        "pronunciation": "Muhandis",
+        "meaning": "Engineer",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 12,
+        "when_to_say": "Used to refer to a professional who designs, builds, or maintains systems, structures, or machinery.",
+        "example": "المهندس يبني الجسر. (Al-muhandis yabnee al-jisr) - The engineer builds the bridge."
+      },
+      {
+        "Id": 123,
+        "word": "مدرس",
+        "pronunciation": "Mudarres",
+        "meaning": "Teacher",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 12,
+        "when_to_say": "Used to refer to a person who educates students, typically in a school setting.",
+        "example": "المدرس يشرح الدرس. (Al-mudarres yashrah al-dars) - The teacher explains the lesson."
+      },
+      {
+        "Id": 124,
+        "word": "محامي",
+        "pronunciation": "Muhami",
+        "meaning": "Lawyer",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 12,
+        "when_to_say": "Used to refer to a person who practices law, advising or representing clients in legal matters.",
+        "example": "المحامي يقدم المشورة القانونية. (Al-muhami yuqaddim al-mashura al-qanuniya) - The lawyer provides legal advice."
+      },
+      {
+        "Id": 125,
+        "word": "صحفي",
+        "pronunciation": "Sahafi",
+        "meaning": "Journalist",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 12,
+        "when_to_say": "Used to refer to a person who writes news articles or reports.",
+        "example": "الصحفي يكتب مقالاً. (Al-sahafi yaktub maqālan) - The journalist writes an article."
+      },
+      {
+        "Id": 126,
+        "word": "مزارع",
+        "pronunciation": "Mazari'",
+        "meaning": "Farmer",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 12,
+        "when_to_say": "Used to refer to a person who cultivates crops or raises livestock for food or other products.",
+        "example": "المزارع يزرع الحقول. (Al-muzari' yazra' al-ḥuqool) - The farmer plants the fields."
+      },
+      {
+        "Id": 127,
+        "word": "ممرضة",
+        "pronunciation": "Mumarrida",
+        "meaning": "Nurse",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 12,
+        "when_to_say": "Used to refer to a healthcare professional who provides care to patients, typically in a hospital setting.",
+        "example": "الممرضة تساعد المرضى. (Al-mumarrida tusa'id al-marda) - The nurse helps the patients."
+      },
+      {
+        "Id": 128,
+        "word": "كهربائي",
+        "pronunciation": "Kahraba'i",
+        "meaning": "Electrician",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 12,
+        "when_to_say": "Used to refer to a person who installs, repairs, or maintains electrical systems.",
+        "example": "الكهربائي يصلح الأسلاك. (Al-kahraba'i yusliḥ al-aslāk) - The electrician fixes the wires."
+      }
+    ]
+  },
+  {
+    "lesson_id": 13,
+    "lesson_name": "Clothing Vocabulary",
+    "lesson_name_ar": "مفردات الملابس",
+    "lesson_difficulty": "Intermediate",
+    "urlId": "clothing-vocabulary",
+    "words": [
+      {
+        "Id": 131,
+        "word": "قميص",
+        "pronunciation": "Qamīṣ",
+        "meaning": "Shirt",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 13,
+        "when_to_say": "Used when referring to a shirt, typically worn on the upper body.",
+        "example": "أنا أرتدي قميصًا أبيض. (I am wearing a white shirt.)"
+      },
+      {
+        "Id": 132,
+        "word": "بنطال",
+        "pronunciation": "Bintāl",
+        "meaning": "Pants",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 13,
+        "when_to_say": "Used when referring to pants or trousers, typically worn on the lower body.",
+        "example": "الطقس بارد، سأرتدي بنطالًا دافئًا. (The weather is cold, I will wear warm pants.)"
+      },
+      {
+        "Id": 133,
+        "word": "فستان",
+        "pronunciation": "Fustān",
+        "meaning": "Dress",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 13,
+        "when_to_say": "Used when referring to a dress, typically worn by women.",
+        "example": "هي ترتدي فستانًا أحمر. (She is wearing a red dress.)"
+      },
+      {
+        "Id": 134,
+        "word": "معطف",
+        "pronunciation": "Miʿṭaf",
+        "meaning": "Coat",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 13,
+        "when_to_say": "Used when referring to an outer garment worn for warmth, typically over other clothes.",
+        "example": "في الشتاء، أرتدي معطفًا ثقيلًا. (In the winter, I wear a heavy coat.)"
+      },
+      {
+        "Id": 135,
+        "word": "حذاء",
+        "pronunciation": "Ḥidhāʾ",
+        "meaning": "Shoe",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 13,
+        "when_to_say": "Used when referring to footwear worn on the feet.",
+        "example": "أنا أشتري حذاء جديدًا. (I am buying new shoes.)"
+      },
+      {
+        "Id": 136,
+        "word": "قبعة",
+        "pronunciation": "Qubʿah",
+        "meaning": "Hat",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 13,
+        "when_to_say": "Used when referring to a head covering worn for warmth or fashion.",
+        "example": "أرتدي قبعة لحماية نفسي من الشمس. (I wear a hat to protect myself from the sun.)"
+      },
+      {
+        "Id": 137,
+        "word": "جاكيت",
+        "pronunciation": "Jākīt",
+        "meaning": "Jacket",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 13,
+        "when_to_say": "Used when referring to a lightweight jacket, often worn in mild weather or as a fashion item.",
+        "example": "الجو بارد، سأرتدي جاكيتًا. (The weather is cold, I will wear a jacket.)"
+      },
+      {
+        "Id": 138,
+        "word": "سروال قصير",
+        "pronunciation": "Sirwāl Qaṣīr",
+        "meaning": "Shorts",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 13,
+        "when_to_say": "Used when referring to a pair of pants that end above the knee, typically worn in warm weather.",
+        "example": "أحب ارتداء السراويل القصيرة في الصيف. (I like wearing shorts in the summer.)"
+      }
+    ]
+  },
+  {
+    "lesson_id": 14,
+    "lesson_name": "Transportation Vocabulary",
+    "lesson_name_ar": "مفردات وسائل النقل",
+    "lesson_difficulty": "Intermediate",
+    "urlId": "transportation-vocabulary",
+    "words": [
+      {
+        "Id": 141,
+        "word": "سيارة",
+        "pronunciation": "Sayyārah",
+        "meaning": "Car",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 14,
+        "when_to_say": "Used when referring to a vehicle with four wheels, typically used for personal transportation.",
+        "example": "أنا أمتلك سيارة جديدة. (I own a new car.)"
+      },
+      {
+        "Id": 142,
+        "word": "حافلة",
+        "pronunciation": "Ḥāfilah",
+        "meaning": "Bus",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 14,
+        "when_to_say": "Used when referring to a large motor vehicle used for transporting groups of people.",
+        "example": "ركبنا الحافلة للذهاب إلى المدرسة. (We took the bus to go to school.)"
+      },
+      {
+        "Id": 143,
+        "word": "قطار",
+        "pronunciation": "Qiṭār",
+        "meaning": "Train",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 14,
+        "when_to_say": "Used when referring to a long vehicle that runs on tracks, used for transporting people or goods.",
+        "example": "سأركب القطار إلى المدينة. (I will take the train to the city.)"
+      },
+      {
+        "Id": 144,
+        "word": "دراجة",
+        "pronunciation": "Darājah",
+        "meaning": "Bicycle",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 14,
+        "when_to_say": "Used when referring to a two-wheeled vehicle powered by pedaling.",
+        "example": "أحب ركوب الدراجة في الصباح. (I like riding my bicycle in the morning.)"
+      },
+      {
+        "Id": 145,
+        "word": "طائرة",
+        "pronunciation": "Ṭā'irah",
+        "meaning": "Airplane",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 14,
+        "when_to_say": "Used when referring to a vehicle that flies through the air, typically used for long-distance travel.",
+        "example": "سأسافر إلى باريس على متن الطائرة. (I will travel to Paris by airplane.)"
+      },
+      {
+        "Id": 146,
+        "word": "زورق",
+        "pronunciation": "Zawrāq",
+        "meaning": "Boat",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 14,
+        "when_to_say": "Used when referring to a small vessel used for traveling on water.",
+        "example": "نذهب في رحلة بالقارب كل صيف. (We go on a boat trip every summer.)"
+      },
+      {
+        "Id": 147,
+        "word": "مطار",
+        "pronunciation": "Maṭār",
+        "meaning": "Airport",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 14,
+        "when_to_say": "Used when referring to a location where airplanes take off and land.",
+        "example": "وصلت إلى المطار في الوقت المحدد. (I arrived at the airport on time.)"
+      }
+    ]
+  },
+  {
+    "lesson_id": 15,
+    "lesson_name": "Basic Prepositions",
+    "lesson_name_ar": "حروف الجر الأساسية",
+    "lesson_difficulty": "Intermediate",
+    "urlId": "basic-prepositions",
+    "words": [
+      {
+        "Id": 151,
+        "word": "في",
+        "pronunciation": "Fee",
+        "meaning": "In",
+        "part_of_speech": "Preposition",
+        "difficulty": "Intermediate",
+        "Lesson_no": 15,
+        "when_to_say": "Used to indicate that something is inside or within a space or area.",
+        "example": "الكتاب في الحقيبة. (Al-kitab fee al-haqeeba) - The book is in the bag."
+      },
+      {
+        "Id": 152,
+        "word": "على",
+        "pronunciation": "Ala",
+        "meaning": "On, Upon",
+        "part_of_speech": "Preposition",
+        "difficulty": "Intermediate",
+        "Lesson_no": 15,
+        "when_to_say": "Used to indicate position on top of or resting upon something.",
+        "example": "القلم على الطاولة. (Al-qalam 'ala al-tawila) - The pen is on the table."
+      },
+      {
+        "Id": 153,
+        "word": "تحت",
+        "pronunciation": "Taht",
+        "meaning": "Under, Below",
+        "part_of_speech": "Preposition",
+        "difficulty": "Intermediate",
+        "Lesson_no": 15,
+        "when_to_say": "Used to indicate that something is below or beneath something else.",
+        "example": "الحقيبة تحت الطاولة. (Al-haqeeba taht al-tawila) - The bag is under the table."
+      },
+      {
+        "Id": 154,
+        "word": "بجانب",
+        "pronunciation": "Bijanib",
+        "meaning": "Next to, Beside",
+        "part_of_speech": "Preposition",
+        "difficulty": "Intermediate",
+        "Lesson_no": 15,
+        "when_to_say": "Used to indicate that something is beside or adjacent to something else.",
+        "example": "أنا جالس بجانبك. (Ana jalis bijanibak) - I am sitting next to you."
+      },
+      {
+        "Id": 155,
+        "word": "أمام",
+        "pronunciation": "Amam",
+        "meaning": "In front of",
+        "part_of_speech": "Preposition",
+        "difficulty": "Intermediate",
+        "Lesson_no": 15,
+        "when_to_say": "Used to indicate that something is in front of something else.",
+        "example": "السيارة أمام المنزل. (Al-sayara amam al-manzil) - The car is in front of the house."
+      },
+      {
+        "Id": 156,
+        "word": "خلف",
+        "pronunciation": "Khalf",
+        "meaning": "Behind",
+        "part_of_speech": "Preposition",
+        "difficulty": "Intermediate",
+        "Lesson_no": 15,
+        "when_to_say": "Used to indicate that something is at the back or behind something else.",
+        "example": "الطفل خلف البوابة. (Al-ṭifl khalf al-bawaba) - The child is behind the gate."
+      },
+      {
+        "Id": 157,
+        "word": "إلى",
+        "pronunciation": "Ila",
+        "meaning": "To, Towards",
+        "part_of_speech": "Preposition",
+        "difficulty": "Intermediate",
+        "Lesson_no": 15,
+        "when_to_say": "Used to indicate movement or direction towards a specific place or goal.",
+        "example": "أنا ذاهب إلى السوق. (Ana dhahib ila al-souq) - I am going to the market."
+      },
+      {
+        "Id": 158,
+        "word": "من",
+        "pronunciation": "Min",
+        "meaning": "From",
+        "part_of_speech": "Preposition",
+        "difficulty": "Intermediate",
+        "Lesson_no": 15,
+        "when_to_say": "Used to indicate the origin or starting point of something or someone.",
+        "example": "أنا من مصر. (Ana min Misr) - I am from Egypt."
+      },
+      {
+        "Id": 159,
+        "word": "مع",
+        "pronunciation": "Ma'a",
+        "meaning": "With",
+        "part_of_speech": "Preposition",
+        "difficulty": "Intermediate",
+        "Lesson_no": 15,
+        "when_to_say": "Used to indicate association or accompaniment.",
+        "example": "أنا مع أصدقائي. (Ana ma'a asdiqai) - I am with my friends."
+      }
+    ]
+  },
+  {
+    "lesson_id": 16,
+    "lesson_name": "Places in the Home",
+    "lesson_name_ar": "أماكن في المنزل",
+    "lesson_difficulty": "Intermediate",
+    "urlId": "places-in-the-home",
+    "words": [
+      {
+        "Id": 161,
+        "word": "غرفة المعيشة",
+        "pronunciation": "Ghurfat al-Maʿīshah",
+        "meaning": "Living room",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 16,
+        "when_to_say": "Used when referring to the main room in a house where people gather for socializing or relaxing.",
+        "example": "نحن نحب الجلوس في غرفة المعيشة. (We love sitting in the living room.)"
+      },
+      {
+        "Id": 162,
+        "word": "المطبخ",
+        "pronunciation": "Al-Matbakh",
+        "meaning": "Kitchen",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 16,
+        "when_to_say": "Used when referring to the room in a house where food is prepared and cooked.",
+        "example": "أمي تعمل في المطبخ. (My mother is working in the kitchen.)"
+      },
+      {
+        "Id": 163,
+        "word": "غرفة النوم",
+        "pronunciation": "Ghurfat al-Nawm",
+        "meaning": "Bedroom",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 16,
+        "when_to_say": "Used when referring to the room in a house where people sleep.",
+        "example": "أنا نائم في غرفة النوم. (I am sleeping in the bedroom.)"
+      },
+      {
+        "Id": 164,
+        "word": "الحمام",
+        "pronunciation": "Al-Ḥammām",
+        "meaning": "Bathroom",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 16,
+        "when_to_say": "Used when referring to the room for bathing or using the toilet.",
+        "example": "أحتاج إلى الذهاب إلى الحمام. (I need to go to the bathroom.)"
+      },
+      {
+        "Id": 165,
+        "word": "الحديقة",
+        "pronunciation": "Al-Ḥadīqah",
+        "meaning": "Garden",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 16,
+        "when_to_say": "Used when referring to an outdoor space at home, usually with plants or a lawn.",
+        "example": "أطفالي يلعبون في الحديقة. (My children are playing in the garden.)"
+      },
+      {
+        "Id": 166,
+        "word": "الطابق العلوي",
+        "pronunciation": "Al-Ṭābiq al-ʿUlwī",
+        "meaning": "Upper floor",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 16,
+        "when_to_say": "Used when referring to the floor of a building that is above the ground level.",
+        "example": "غرفتي في الطابق العلوي. (My room is on the upper floor.)"
+      },
+      {
+        "Id": 167,
+        "word": "المخزن",
+        "pronunciation": "Al-Makhzan",
+        "meaning": "Storage room",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 16,
+        "when_to_say": "Used when referring to a room where items are stored, often out of sight.",
+        "example": "أضع الأغراض في المخزن. (I put the items in the storage room.)"
+      },
+      {
+        "Id": 168,
+        "word": "المرآب",
+        "pronunciation": "Al-Mirʾāb",
+        "meaning": "Garage",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 16,
+        "when_to_say": "Used when referring to a space for parking vehicles, usually attached to the house.",
+        "example": "أوقف السيارة في المرآب. (I park the car in the garage.)"
+      }
+    ]
+  },
+  {
+    "lesson_id": 17,
+    "lesson_name": "Parts of the Body",
+    "lesson_name_ar": "أجزاء الجسم",
+    "lesson_difficulty": "Intermediate",
+    "urlId": "parts-of-the-body",
+    "words": [
+      {
+        "Id": 171,
+        "word": "رأس",
+        "pronunciation": "Ra's",
+        "meaning": "Head",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 17,
+        "when_to_say": "Used to refer to the uppermost part of the body, where the brain, eyes, and mouth are located.",
+        "example": "رأسي يؤلمني. (Ra'si yu'limuni) - My head hurts."
+      },
+      {
+        "Id": 172,
+        "word": "عين",
+        "pronunciation": "Ayn",
+        "meaning": "Eye",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 17,
+        "when_to_say": "Used to refer to the organ responsible for vision.",
+        "example": "عيني تؤلمني. (Ayni tu'limuni) - My eye hurts."
+      },
+      {
+        "Id": 173,
+        "word": "يد",
+        "pronunciation": "Yad",
+        "meaning": "Hand",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 17,
+        "when_to_say": "Used to refer to the part of the body used for holding or grasping things.",
+        "example": "أنا أمسك بالقلم بيدي. (Ana amsik bil-qalam biyadi) - I am holding the pen with my hand."
+      },
+      {
+        "Id": 174,
+        "word": "قدم",
+        "pronunciation": "Qadam",
+        "meaning": "Foot",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 17,
+        "when_to_say": "Used to refer to the lower part of the body used for walking or standing.",
+        "example": "قدمي تؤلمني. (Qadami tu'limuni) - My foot hurts."
+      },
+      {
+        "Id": 175,
+        "word": "قلب",
+        "pronunciation": "Qalb",
+        "meaning": "Heart",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 17,
+        "when_to_say": "Used to refer to the organ that pumps blood through the body.",
+        "example": "قلبي ينبض بسرعة. (Qalbi yanbidhu bisura'a) - My heart is beating fast."
+      },
+      {
+        "Id": 176,
+        "word": "فم",
+        "pronunciation": "Fam",
+        "meaning": "Mouth",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 17,
+        "when_to_say": "Used to refer to the part of the face used for eating, speaking, and breathing.",
+        "example": "فتح فمه ليأكل. (Fataha famahu liya'kul) - He opened his mouth to eat."
+      },
+      {
+        "Id": 177,
+        "word": "أنف",
+        "pronunciation": "Anf",
+        "meaning": "Nose",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 17,
+        "when_to_say": "Used to refer to the organ for breathing and smelling.",
+        "example": "أنفي مسدود. (Anfi masdood) - My nose is blocked."
+      },
+      {
+        "Id": 178,
+        "word": "أذن",
+        "pronunciation": "Udhun",
+        "meaning": "Ear",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 17,
+        "when_to_say": "Used to refer to the organ for hearing.",
+        "example": "أذني تؤلمني. (Udhuni tu'limuni) - My ear hurts."
+      }
+    ]
+  },
+  {
+    "lesson_id": 18,
+    "lesson_name": "Hobbies and Leisure Activities",
+    "lesson_name_ar": "الهوايات والأنشطة الترفيهية",
+    "lesson_difficulty": "Intermediate",
+    "urlId": "hobbies-and-leisure-activities",
+    "words": [
+      {
+        "Id": 181,
+        "word": "قراءة",
+        "pronunciation": "Qirā'ah",
+        "meaning": "Reading",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 18,
+        "when_to_say": "Used when referring to the activity of reading books, articles, etc.",
+        "example": "أحب قراءة الروايات في وقت فراغي. (I enjoy reading novels in my free time.)"
+      },
+      {
+        "Id": 182,
+        "word": "رسم",
+        "pronunciation": "Rasm",
+        "meaning": "Drawing",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 18,
+        "when_to_say": "Used when referring to the activity of creating pictures or designs with a pencil, pen, or other materials.",
+        "example": "أريد أن أتعلم الرسم. (I want to learn drawing.)"
+      },
+      {
+        "Id": 183,
+        "word": "سفر",
+        "pronunciation": "Safar",
+        "meaning": "Travel",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 18,
+        "when_to_say": "Used when referring to the activity of going from one place to another, often for leisure or exploration.",
+        "example": "أسافر إلى أماكن جديدة في عطلاتي. (I travel to new places on my vacations.)"
+      },
+      {
+        "Id": 184,
+        "word": "موسيقى",
+        "pronunciation": "Mūsīqā",
+        "meaning": "Music",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 18,
+        "when_to_say": "Used when referring to the art of sound, usually in the form of songs, instruments, or melodies.",
+        "example": "أستمع إلى الموسيقى كل يوم. (I listen to music every day.)"
+      },
+      {
+        "Id": 185,
+        "word": "رياضة",
+        "pronunciation": "Riyāḍah",
+        "meaning": "Sports",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 18,
+        "when_to_say": "Used when referring to physical activities or games, such as football, tennis, etc.",
+        "example": "أمارس الرياضة ثلاث مرات في الأسبوع. (I practice sports three times a week.)"
+      },
+      {
+        "Id": 186,
+        "word": "طبخ",
+        "pronunciation": "Ṭabkh",
+        "meaning": "Cooking",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 18,
+        "when_to_say": "Used when referring to the activity of preparing food.",
+        "example": "أحب الطبخ وتجربة وصفات جديدة. (I love cooking and trying new recipes.)"
+      },
+      {
+        "Id": 187,
+        "word": "تصوير",
+        "pronunciation": "Taṣwīr",
+        "meaning": "Photography",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 18,
+        "when_to_say": "Used when referring to the activity of taking photographs, either professionally or for fun.",
+        "example": "أنا مهتم بالتصوير الفوتوغرافي. (I am interested in photography.)"
+      },
+      {
+        "Id": 188,
+        "word": "مشي",
+        "pronunciation": "Mashī",
+        "meaning": "Walking",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 18,
+        "when_to_say": "Used when referring to the activity of moving on foot at a moderate pace, usually for exercise or leisure.",
+        "example": "أحب المشي في الطبيعة كل صباح. (I enjoy walking in nature every morning.)"
+      }
+    ]
+  },
+  {
+    "lesson_id": 19,
+    "lesson_name": "Common Household Items",
+    "lesson_name_ar": "الأغراض المنزلية الشائعة",
+    "lesson_difficulty": "Intermediate",
+    "urlId": "common-household-items",
+    "words": [
+      {
+        "Id": 191,
+        "word": "طاولة",
+        "pronunciation": "Tawila",
+        "meaning": "Table",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 19,
+        "when_to_say": "Used to refer to a piece of furniture with a flat surface, used for various tasks.",
+        "example": "الطاولة في وسط الغرفة. (Al-tawila fi wasat al-ghurfa) - The table is in the middle of the room."
+      },
+      {
+        "Id": 192,
+        "word": "كرسي",
+        "pronunciation": "Kursi",
+        "meaning": "Chair",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 19,
+        "when_to_say": "Used to refer to a piece of furniture for sitting.",
+        "example": "أنا جالس على الكرسي. (Ana jalis 'ala al-kursi) - I am sitting on the chair."
+      },
+      {
+        "Id": 193,
+        "word": "ثلاجة",
+        "pronunciation": "Thalaja",
+        "meaning": "Refrigerator",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 19,
+        "when_to_say": "Used to refer to an appliance used for keeping food and drinks cold.",
+        "example": "الطعام في الثلاجة. (Al-ta'am fi al-thalaja) - The food is in the refrigerator."
+      },
+      {
+        "Id": 194,
+        "word": "غسالة",
+        "pronunciation": "Ghasala",
+        "meaning": "Washing machine",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 19,
+        "when_to_say": "Used to refer to an appliance used for washing clothes.",
+        "example": "غسالة الملابس في المطبخ. (Ghasalat al-malabis fi al-matbakh) - The washing machine is in the kitchen."
+      },
+      {
+        "Id": 195,
+        "word": "مغسلة",
+        "pronunciation": "Mghasila",
+        "meaning": "Sink",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 19,
+        "when_to_say": "Used to refer to a basin used for washing dishes or hands.",
+        "example": "المغسلة في المطبخ. (Al-mghasila fi al-matbakh) - The sink is in the kitchen."
+      },
+      {
+        "Id": 196,
+        "word": "مروحة",
+        "pronunciation": "Marwaha",
+        "meaning": "Fan",
+        "part_of_speech": "Noun",
+        "difficulty": "Intermediate",
+        "Lesson_no": 19,
+        "when_to_say": "Used to refer to an electrical appliance used to circulate air and cool the room.",
+        "example": "المروحة تعمل في غرفة النوم. (Al-marwaha ta'mal fi ghurfat al-nawm) - The fan is working in the bedroom."
+      }
+    ]
+  },
+  {
+    "lesson_id": 20,
+    "lesson_name": "Common Verbs for Daily Life",
+    "lesson_name_ar": "الأفعال الشائعة في الحياة اليومية",
+    "lesson_difficulty": "Intermediate",
+    "urlId": "common-verbs-for-daily-life",
+    "words": [
+      {
+        "Id": 201,
+        "word": "أكل",
+        "pronunciation": "Akl",
+        "meaning": "To eat",
+        "part_of_speech": "Verb",
+        "difficulty": "Intermediate",
+        "Lesson_no": 20,
+        "when_to_say": "Used when referring to the action of consuming food.",
+        "example": "أنا أكلت الفطور صباح اليوم. (I ate breakfast this morning.)"
+      },
+      {
+        "Id": 202,
+        "word": "شرب",
+        "pronunciation": "Sharab",
+        "meaning": "To drink",
+        "part_of_speech": "Verb",
+        "difficulty": "Intermediate",
+        "Lesson_no": 20,
+        "when_to_say": "Used when referring to the action of consuming liquids.",
+        "example": "أحتاج إلى شرب الماء. (I need to drink water.)"
+      },
+      {
+        "Id": 203,
+        "word": "ذهب",
+        "pronunciation": "Dhahab",
+        "meaning": "To go",
+        "part_of_speech": "Verb",
+        "difficulty": "Intermediate",
+        "Lesson_no": 20,
+        "when_to_say": "Used when referring to the action of moving from one place to another.",
+        "example": "أذهب إلى العمل كل يوم. (I go to work every day.)"
+      },
+      {
+        "Id": 204,
+        "word": "جاء",
+        "pronunciation": "Jā'a",
+        "meaning": "To come",
+        "part_of_speech": "Verb",
+        "difficulty": "Intermediate",
+        "Lesson_no": 20,
+        "when_to_say": "Used when referring to the action of moving towards a place or person.",
+        "example": "جاء صديقي إلى منزلي أمس. (My friend came to my house yesterday.)"
+      },
+      {
+        "Id": 205,
+        "word": "عمل",
+        "pronunciation": "ʿAmal",
+        "meaning": "To work",
+        "part_of_speech": "Verb",
+        "difficulty": "Intermediate",
+        "Lesson_no": 20,
+        "when_to_say": "Used when referring to the action of doing work or being employed.",
+        "example": "أنا أعمل في مكتبٍ كبير. (I work in a large office.)"
+      },
+      {
+        "Id": 206,
+        "word": "نوم",
+        "pronunciation": "Nawm",
+        "meaning": "To sleep",
+        "part_of_speech": "Verb",
+        "difficulty": "Intermediate",
+        "Lesson_no": 20,
+        "when_to_say": "Used when referring to the action of resting or sleeping.",
+        "example": "أنا بحاجة إلى النوم الآن. (I need to sleep now.)"
+      },
+      {
+        "Id": 207,
+        "word": "قراءة",
+        "pronunciation": "Qirā'ah",
+        "meaning": "To read",
+        "part_of_speech": "Verb",
+        "difficulty": "Intermediate",
+        "Lesson_no": 20,
+        "when_to_say": "Used when referring to the action of reading books, articles, or other texts.",
+        "example": "أنا أقرأ كتابًا جديدًا. (I am reading a new book.)"
+      },
+      {
+        "Id": 208,
+        "word": "كتابة",
+        "pronunciation": "Kitābah",
+        "meaning": "To write",
+        "part_of_speech": "Verb",
+        "difficulty": "Intermediate",
+        "Lesson_no": 20,
+        "when_to_say": "Used when referring to the action of composing text with a pen, pencil, or digital device.",
+        "example": "أكتب رسالة إلى صديقي. (I am writing a letter to my friend.)"
+      }
+    ]
+  },
+  {
+    "lesson_id": 21,
+    "lesson_name": "Advanced Adjectives",
+    "lesson_name_ar": "الصفات المتقدمة",
+    "lesson_difficulty": "Advanced",
+    "urlId": "advanced-adjectives",
+    "words": [
+      {
+        "Id": 211,
+        "word": "مبهر",
+        "pronunciation": "Mubhir",
+        "meaning": "Amazing, Impressive",
+        "part_of_speech": "Adjective",
+        "difficulty": "Advanced",
+        "Lesson_no": 21,
+        "when_to_say": "Used to describe something that is extraordinary or leaves a strong impression.",
+        "example": "العرض كان مبهرًا. (Al-‘ard kan mubhiran) - The performance was amazing."
+      },
+      {
+        "Id": 212,
+        "word": "مؤلم",
+        "pronunciation": "Mu'lim",
+        "meaning": "Painful",
+        "part_of_speech": "Adjective",
+        "difficulty": "Advanced",
+        "Lesson_no": 21,
+        "when_to_say": "Used to describe something that causes physical or emotional pain.",
+        "example": "كانت الإصابة مؤلمة. (Kanat al-isaba mu'limah) - The injury was painful."
+      },
+      {
+        "Id": 213,
+        "word": "غامض",
+        "pronunciation": "Ghamid",
+        "meaning": "Mysterious, Ambiguous",
+        "part_of_speech": "Adjective",
+        "difficulty": "Advanced",
+        "Lesson_no": 21,
+        "when_to_say": "Used to describe something that is not clear or is shrouded in mystery.",
+        "example": "القصة كانت غامضة. (Al-qissa kanat ghamidah) - The story was mysterious."
+      },
+      {
+        "Id": 214,
+        "word": "مذهل",
+        "pronunciation": "Mudh-hil",
+        "meaning": "Stunning, Incredible",
+        "part_of_speech": "Adjective",
+        "difficulty": "Advanced",
+        "Lesson_no": 21,
+        "when_to_say": "Used to describe something that is extremely impressive or jaw-dropping.",
+        "example": "المنظر كان مذهلاً. (Al-manzar kan mudhilan) - The view was stunning."
+      },
+      {
+        "Id": 215,
+        "word": "مبهم",
+        "pronunciation": "Mubham",
+        "meaning": "Vague, Unclear",
+        "part_of_speech": "Adjective",
+        "difficulty": "Advanced",
+        "Lesson_no": 21,
+        "when_to_say": "Used to describe something that is unclear or not well defined.",
+        "example": "كانت الإجابة مبهمة. (Kanat al-ijaba mubhamah) - The answer was vague."
+      },
+      {
+        "Id": 216,
+        "word": "صعب",
+        "pronunciation": "Sa'b",
+        "meaning": "Difficult, Hard",
+        "part_of_speech": "Adjective",
+        "difficulty": "Advanced",
+        "Lesson_no": 21,
+        "when_to_say": "Used to describe something that is not easy to do or understand.",
+        "example": "الامتحان كان صعبًا. (Al-imtihan kan sa'baan) - The exam was difficult."
+      },
+      {
+        "Id": 217,
+        "word": "متطور",
+        "pronunciation": "Mutatawwir",
+        "meaning": "Advanced, Sophisticated",
+        "part_of_speech": "Adjective",
+        "difficulty": "Advanced",
+        "Lesson_no": 21,
+        "when_to_say": "Used to describe something that is developed or highly sophisticated.",
+        "example": "التكنولوجيا في هذا المجال متطورة. (Al-tekhnologia fi hadha al-majal mutatawwira) - The technology in this field is advanced."
+      },
+      {
+        "Id": 218,
+        "word": "مذهول",
+        "pronunciation": "Madh-hul",
+        "meaning": "Astonished, Stunned",
+        "part_of_speech": "Adjective",
+        "difficulty": "Advanced",
+        "Lesson_no": 21,
+        "when_to_say": "Used to describe someone who is so surprised or shocked that they are temporarily speechless.",
+        "example": "كان مذهولًا من الأخبار. (Kan madh-hulan min al-akhbar) - He was stunned by the news."
+      }
+    ]
+  },
+  {
+    "lesson_id": 22,
+    "lesson_name": "Nature and the Environment",
+    "lesson_name_ar": "الطبيعة والبيئة",
+    "lesson_difficulty": "Advanced",
+    "urlId": "nature-and-the-environment",
+    "words": [
+      {
+        "Id": 221,
+        "word": "الغابات",
+        "pronunciation": "Al-Ghābāt",
+        "meaning": "Forests",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 22,
+        "when_to_say": "Used when referring to large areas of land covered with trees and vegetation.",
+        "example": "تعتبر الغابات مكانًا مهمًا للحياة البرية. (Forests are an important habitat for wildlife.)"
+      },
+      {
+        "Id": 222,
+        "word": "الجبال",
+        "pronunciation": "Al-Jibāl",
+        "meaning": "Mountains",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 22,
+        "when_to_say": "Used when referring to large landforms that rise steeply above the surrounding land.",
+        "example": "الجبال تغطي أجزاء كبيرة من الأرض. (Mountains cover large parts of the Earth.)"
+      },
+      {
+        "Id": 223,
+        "word": "المحيطات",
+        "pronunciation": "Al-Muḥīṭāt",
+        "meaning": "Oceans",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 22,
+        "when_to_say": "Used when referring to large bodies of saltwater that cover much of the Earth's surface.",
+        "example": "المحيطات تلعب دورًا كبيرًا في المناخ العالمي. (Oceans play a major role in global climate.)"
+      },
+      {
+        "Id": 224,
+        "word": "التلوث",
+        "pronunciation": "At-Talawwuth",
+        "meaning": "Pollution",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 22,
+        "when_to_say": "Used when referring to the presence of harmful substances in the environment.",
+        "example": "التلوث يؤثر بشكل سلبي على صحة الإنسان. (Pollution negatively affects human health.)"
+      },
+      {
+        "Id": 225,
+        "word": "الاحتباس الحراري",
+        "pronunciation": "Al-Iḥtibās al-Ḥarārī",
+        "meaning": "Global warming",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 22,
+        "when_to_say": "Used when referring to the long-term increase in Earth's average surface temperature due to human activities.",
+        "example": "الاحتباس الحراري يؤدي إلى تغيرات مناخية غير مرغوب فيها. (Global warming leads to undesirable climate changes.)"
+      },
+      {
+        "Id": 226,
+        "word": "التنوع البيولوجي",
+        "pronunciation": "At-Tanawwuʿ al-Bī'ūlūjī",
+        "meaning": "Biodiversity",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 22,
+        "when_to_say": "Used when referring to the variety of life on Earth, including different species, ecosystems, and genetic diversity.",
+        "example": "التنوع البيولوجي أساسي للحفاظ على استدامة الحياة. (Biodiversity is essential for sustaining life.)"
+      },
+      {
+        "Id": 227,
+        "word": "الأنواع المهددة بالانقراض",
+        "pronunciation": "Al-Anwāʿ al-Muḥaddadah bil-Inqirāḍ",
+        "meaning": "Endangered species",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 22,
+        "when_to_say": "Used when referring to species that are at risk of becoming extinct.",
+        "example": "العديد من الأنواع المهددة بالانقراض تحتاج إلى حماية. (Many endangered species need protection.)"
+      },
+      {
+        "Id": 228,
+        "word": "الطاقة المتجددة",
+        "pronunciation": "At-Ṭāqah al-Mutajaddidah",
+        "meaning": "Renewable energy",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 22,
+        "when_to_say": "Used when referring to energy sources that are naturally replenished, like solar and wind energy.",
+        "example": "الطاقة المتجددة تعد بديلاً نظيفًا للطاقة التقليدية. (Renewable energy is a clean alternative to traditional energy.)"
+      },
+      {
+        "Id": 229,
+        "word": "الحفاظ على البيئة",
+        "pronunciation": "Al-Ḥifāẓ ʿalā al-Bī'ah",
+        "meaning": "Environmental conservation",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 22,
+        "when_to_say": "Used when referring to efforts made to protect the environment from harm or degradation.",
+        "example": "يجب أن نتعاون جميعًا للحفاظ على البيئة. (We must all work together to preserve the environment.)"
+      }
+    ]
+  },
+  {
+    "lesson_id": 23,
+    "lesson_name": "Advanced Food and Cooking Vocabulary",
+    "lesson_name_ar": "المفردات المتقدمة للطعام والطهي",
+    "lesson_difficulty": "Advanced",
+    "urlId": "advanced-food-and-cooking-vocabulary",
+    "words": [
+      {
+        "Id": 231,
+        "word": "شواء",
+        "pronunciation": "Shiwaa",
+        "meaning": "Grilling, Barbecue",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 23,
+        "when_to_say": "Used to refer to the method of cooking food over an open flame or on a grill.",
+        "example": "نحب الشواء في الهواء الطلق. (Nuhibu al-shiwaa fi al-hawa' al-talq) - We love grilling outdoors."
+      },
+      {
+        "Id": 232,
+        "word": "مقلي",
+        "pronunciation": "Maqli",
+        "meaning": "Fried",
+        "part_of_speech": "Adjective",
+        "difficulty": "Advanced",
+        "Lesson_no": 23,
+        "when_to_say": "Used to describe food that is cooked in hot oil.",
+        "example": "الطعام المقلي غير صحي. (Al-ta'am al-maqli ghayr sahiy) - Fried food is unhealthy."
+      },
+      {
+        "Id": 233,
+        "word": "محشي",
+        "pronunciation": "Mahshi",
+        "meaning": "Stuffed",
+        "part_of_speech": "Adjective",
+        "difficulty": "Advanced",
+        "Lesson_no": 23,
+        "when_to_say": "Used to describe food that is stuffed with ingredients such as rice, meat, or vegetables.",
+        "example": "الفلفل المحشي لذيذ. (Al-filfil al-mahshi lazidh) - The stuffed pepper is delicious."
+      },
+      {
+        "Id": 234,
+        "word": "خليط",
+        "pronunciation": "Khalit",
+        "meaning": "Mixture",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 23,
+        "when_to_say": "Used to refer to a combination of ingredients mixed together.",
+        "example": "يجب أن تكون المكونات خليطًا جيدًا. (Yajibu an takuna al-mukawwinat khalitan jayyidan) - The ingredients must be a good mixture."
+      },
+      {
+        "Id": 235,
+        "word": "تتبيلة",
+        "pronunciation": "Tatbila",
+        "meaning": "Marinade",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 23,
+        "when_to_say": "Used to refer to a mixture of spices or liquids in which meat, fish, or vegetables are soaked to add flavor before cooking.",
+        "example": "أضف التتبيلة إلى اللحم قبل الشواء. (Adif al-tatbila ila al-lahm qabl al-shiwaa) - Add the marinade to the meat before grilling."
+      },
+      {
+        "Id": 236,
+        "word": "سلق",
+        "pronunciation": "Salq",
+        "meaning": "Boiling",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 23,
+        "when_to_say": "Used to refer to the method of cooking food by immersing it in hot water.",
+        "example": "أحب سلق الخضروات. (Uhibu salq al-khudrawat) - I love boiling vegetables."
+      },
+      {
+        "Id": 237,
+        "word": "مقبلات",
+        "pronunciation": "Muqabilat",
+        "meaning": "Appetizers",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 23,
+        "when_to_say": "Used to refer to small dishes served before the main course.",
+        "example": "المقبلات لذيذة جدا. (Al-muqabilat lazidha jiddan) - The appetizers are very delicious."
+      }
+    ]
+  },
+  {
+    "lesson_id": 24,
+    "lesson_name": "Emotions and Feelings",
+    "lesson_name_ar": "العواطف والمشاعر",
+    "lesson_difficulty": "Advanced",
+    "urlId": "emotions-and-feelings",
+    "words": [
+      {
+        "Id": 241,
+        "word": "سعادة",
+        "pronunciation": "Sa'ādah",
+        "meaning": "Happiness",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 24,
+        "when_to say": "Used when referring to the emotional state of being happy or joyful.",
+        "example": "أشعر بالسعادة عندما أكون مع عائلتي. (I feel happiness when I am with my family.)"
+      },
+      {
+        "Id": 242,
+        "word": "حزن",
+        "pronunciation": "Ḥuzn",
+        "meaning": "Sadness",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 24,
+        "when_to say": "Used when referring to the emotional state of being sad or sorrowful.",
+        "example": "كنت في حالة من الحزن بعد سماع الأخبار. (I was in a state of sadness after hearing the news.)"
+      },
+      {
+        "Id": 243,
+        "word": "غضب",
+        "pronunciation": "Ghaḍab",
+        "meaning": "Anger",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 24,
+        "when_to say": "Used when referring to the emotional state of being angry or upset.",
+        "example": "أشعر بالغضب عندما لا يُحترم رأيي. (I feel anger when my opinion is not respected.)"
+      },
+      {
+        "Id": 244,
+        "word": "خوف",
+        "pronunciation": "Khawf",
+        "meaning": "Fear",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 24,
+        "when_to say": "Used when referring to the emotional state of being afraid or anxious.",
+        "example": "الشعور بالخوف سيطر عليّ في الظلام. (The feeling of fear overcame me in the dark.)"
+      },
+      {
+        "Id": 245,
+        "word": "دهشة",
+        "pronunciation": "Dahshah",
+        "meaning": "Amazement",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 24,
+        "when_to say": "Used when referring to the emotional state of being surprised or astonished.",
+        "example": "كنت في دهشة عندما رأيت المنظر الجميل. (I was in amazement when I saw the beautiful view.)"
+      },
+      {
+        "Id": 246,
+        "word": "إحباط",
+        "pronunciation": "Iḥbāṭ",
+        "meaning": "Frustration",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 24,
+        "when_to say": "Used when referring to the emotional state of being frustrated or discouraged.",
+        "example": "شعرت بالإحباط بعد فشل المشروع. (I felt frustration after the project's failure.)"
+      },
+      {
+        "Id": 247,
+        "word": "حب",
+        "pronunciation": "Ḥubb",
+        "meaning": "Love",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 24,
+        "when_to say": "Used when referring to the emotional state of deep affection or attachment.",
+        "example": "الحب هو أجمل شعور يمكن أن يشعر به الإنسان. (Love is the most beautiful feeling a person can experience.)"
+      },
+      {
+        "Id": 248,
+        "word": "قلق",
+        "pronunciation": "Qalaq",
+        "meaning": "Anxiety",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 24,
+        "when_to say": "Used when referring to the emotional state of being nervous or worried about something.",
+        "example": "أشعر بالقلق بشأن مستقبلي المهني. (I feel anxiety about my professional future.)"
+      }
+    ]
+  },
+  {
+    "lesson_id": 25,
+    "lesson_name": "Travel and Vacation Vocabulary",
+    "lesson_name_ar": "مفردات السفر والإجازات",
+    "lesson_difficulty": "Advanced",
+    "urlId": "travel-and-vacation-vocabulary",
+    "words": [
+      {
+        "Id": 251,
+        "word": "مطار",
+        "pronunciation": "Matar",
+        "meaning": "Airport",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 25,
+        "when_to_say": "Used to refer to a place where passengers can board or disembark flights.",
+        "example": "وصلنا إلى المطار قبل ساعتين. (Wasalna ila al-matar qabl sa'atein) - We arrived at the airport two hours ago."
+      },
+      {
+        "Id": 252,
+        "word": "تأشيرة",
+        "pronunciation": "Ta'shira",
+        "meaning": "Visa",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 25,
+        "when_to_say": "Used to refer to an official document allowing a person to enter, leave, or stay in a country for a specific period.",
+        "example": "هل حصلت على التأشيرة؟ (Hal hasalta 'ala al-ta'shira?) - Did you get the visa?"
+      },
+      {
+        "Id": 253,
+        "word": "حجز",
+        "pronunciation": "Hajz",
+        "meaning": "Reservation, Booking",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 25,
+        "when_to_say": "Used to refer to the act of booking or reserving accommodations, tickets, or services in advance.",
+        "example": "قمت بحجز الفندق مسبقًا. (Qumtu bihajz al-funduq musabqan) - I made the hotel reservation in advance."
+      },
+      {
+        "Id": 254,
+        "word": "رحلة",
+        "pronunciation": "Rihla",
+        "meaning": "Trip, Journey",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 25,
+        "when_to_say": "Used to refer to traveling from one place to another, usually for leisure or business.",
+        "example": "الرحلة إلى باريس كانت رائعة. (Al-rihla ila Paris kanat ra'iah) - The trip to Paris was wonderful."
+      },
+      {
+        "Id": 255,
+        "word": "مرافق",
+        "pronunciation": "Muraafiq",
+        "meaning": "Companion, Accompanying Person",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 25,
+        "when_to_say": "Used to refer to a person traveling with another, such as a friend, spouse, or colleague.",
+        "example": "أنا في رحلتي مع مرافق. (Ana fi riħlati ma'a muraafiq) - I am on my trip with a companion."
+      },
+      {
+        "Id": 256,
+        "word": "استكشاف",
+        "pronunciation": "Istikshaf",
+        "meaning": "Exploration, Discovery",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 25,
+        "when_to_say": "Used to refer to the action of discovering new places, cultures, or things during travel.",
+        "example": "استمتعت باستكشاف المدينة الجديدة. (Istimta'tu bi-istikshaf al-madina al-jadida) - I enjoyed exploring the new city."
+      },
+      {
+        "Id": 257,
+        "word": "منتجع",
+        "pronunciation": "Muntaja'",
+        "meaning": "Resort",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 25,
+        "when_to_say": "Used to refer to a place where people go for relaxation, usually offering various leisure activities and accommodations.",
+        "example": "نحن ذاهبون إلى المنتجع على الشاطئ. (Nahnu zahibun ila al-muntaja' 'ala al-shati) - We are going to the resort by the beach."
+      },
+      {
+        "Id": 258,
+        "word": "وجهة",
+        "pronunciation": "Wajhah",
+        "meaning": "Destination",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 25,
+        "when_to_say": "Used to refer to the place where someone is traveling to.",
+        "example": "وجهتنا هي جزر المالديف. (Wajhatuna hiya juzur al-Maldiv) - Our destination is the Maldives."
+      }
+    ]
+  },
+  {
+    "lesson_id": 26,
+    "lesson_name": "Politics and Society",
+    "lesson_name_ar": "السياسة والمجتمع",
+    "lesson_difficulty": "Advanced",
+    "urlId": "politics-and-society",
+    "words": [
+      {
+        "Id": 261,
+        "word": "ديمقراطية",
+        "pronunciation": "Dīmuqrāṭīyah",
+        "meaning": "Democracy",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 26,
+        "when_to_say": "Used when referring to a system of government where power is vested in the people, typically through elected representatives.",
+        "example": "الديمقراطية تتيح للمواطنين المشاركة في صنع القرار. (Democracy allows citizens to participate in decision-making.)"
+      },
+      {
+        "Id": 262,
+        "word": "حكومة",
+        "pronunciation": "Ḥukūmah",
+        "meaning": "Government",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 26,
+        "when_to_say": "Used when referring to the system or group of people governing a nation or state.",
+        "example": "الحكومة مسؤولة عن تنفيذ القوانين. (The government is responsible for enforcing the laws.)"
+      },
+      {
+        "Id": 263,
+        "word": "حقوق الإنسان",
+        "pronunciation": "Ḥuqūq al-Insān",
+        "meaning": "Human rights",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 26,
+        "when_to_say": "Used when referring to the basic rights and freedoms that belong to all individuals.",
+        "example": "يجب على كل دولة احترام حقوق الإنسان. (Every country must respect human rights.)"
+      },
+      {
+        "Id": 264,
+        "word": "حرب",
+        "pronunciation": "Ḥarb",
+        "meaning": "War",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 26,
+        "when_to_say": "Used when referring to a state of armed conflict between different countries or groups.",
+        "example": "الحرب لها تأثيرات مدمرة على المجتمع. (War has devastating effects on society.)"
+      },
+      {
+        "Id": 265,
+        "word": "ثورة",
+        "pronunciation": "Thawrah",
+        "meaning": "Revolution",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 26,
+        "when_to_say": "Used when referring to a forcible overthrow of a government or social order, in favor of a new system.",
+        "example": "ثورة الشعب أدت إلى تغييرات جذرية في الحكومة. (The people's revolution led to radical changes in the government.)"
+      },
+      {
+        "Id": 266,
+        "word": "نظام",
+        "pronunciation": "Niẓām",
+        "meaning": "System/Regime",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 26,
+        "when_to_say": "Used when referring to a structured system or regime of governance.",
+        "example": "النظام السياسي في البلاد يعتمد على الحزب الواحد. (The political system in the country relies on a single-party regime.)"
+      },
+      {
+        "Id": 267,
+        "word": "استبداد",
+        "pronunciation": "Istibdād",
+        "meaning": "Tyranny",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 26,
+        "when_to_say": "Used when referring to cruel and oppressive rule by a single leader or regime.",
+        "example": "الشعب عانى من الاستبداد لعقود. (The people suffered under tyranny for decades.)"
+      },
+      {
+        "Id": 268,
+        "word": "عدالة",
+        "pronunciation": "ʿAdālah",
+        "meaning": "Justice",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 26,
+        "when_to_say": "Used when referring to the concept of fairness and law, especially in the legal and political context.",
+        "example": "يجب أن تسعى كل دولة لتحقيق العدالة لمواطنيها. (Every country must strive for justice for its citizens.)"
+      }
+    ]
+  },
+  {
+    "lesson_id": 27,
+    "lesson_name": "Business and Economics Vocabulary",
+    "lesson_name_ar": "مفردات الأعمال والاقتصاد",
+    "lesson_difficulty": "Advanced",
+    "urlId": "business-and-economics-vocabulary",
+    "words": [
+      {
+        "Id": 271,
+        "word": "استثمار",
+        "pronunciation": "Isti-thmar",
+        "meaning": "Investment",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 27,
+        "when_to_say": "Used to refer to the action or process of putting money into something to earn a profit or gain.",
+        "example": "الاستثمار في الأسهم قد يكون مربحًا. (Al-istithmar fi al-ashum qad yakun murbiḥan) - Investment in stocks can be profitable."
+      },
+      {
+        "Id": 272,
+        "word": "إيرادات",
+        "pronunciation": "Iradat",
+        "meaning": "Revenue, Earnings",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 27,
+        "when_to_say": "Used to refer to the total income generated by a company or organization.",
+        "example": "الإيرادات من المبيعات كانت عالية هذا العام. (Al-iradat min al-mabiyat kanat 'aliya hadha al-'aam) - The revenue from sales was high this year."
+      },
+      {
+        "Id": 273,
+        "word": "عائد",
+        "pronunciation": "A'id",
+        "meaning": "Return (on investment), Profit",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 27,
+        "when_to_say": "Used to describe the profit or gain derived from an investment.",
+        "example": "عائد الاستثمار كان ممتازًا. (A'id al-istithmar kan mumtazan) - The return on investment was excellent."
+      },
+      {
+        "Id": 274,
+        "word": "منافسة",
+        "pronunciation": "Muna'fasa",
+        "meaning": "Competition",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 27,
+        "when_to_say": "Used to refer to the rivalry between businesses or individuals striving for the same goal or market share.",
+        "example": "المنافسة في السوق عالية هذا العام. (Al-munafasa fi al-souq 'aliya hadha al-'aam) - The competition in the market is high this year."
+      },
+      {
+        "Id": 275,
+        "word": "رأس المال",
+        "pronunciation": "Ra's al-Mal",
+        "meaning": "Capital",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 27,
+        "when_to_say": "Used to refer to the financial resources available for investment or business operations.",
+        "example": "رأس المال المستخدم في المشروع كبير. (Ra's al-mal al-mustakhdam fi al-mashru' kabeer) - The capital used in the project is large."
+      },
+      {
+        "Id": 276,
+        "word": "مؤشر",
+        "pronunciation": "Mu'ashir",
+        "meaning": "Index, Indicator",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 27,
+        "when_to_say": "Used to refer to a measure that shows the performance of an economy, market, or stock.",
+        "example": "مؤشر السوق ارتفع بشكل كبير. (Mu'ashir al-souq irtafa'a bishakl kabeer) - The market index rose significantly."
+      },
+      {
+        "Id": 277,
+        "word": "تضخم",
+        "pronunciation": "Tadhakhum",
+        "meaning": "Inflation",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 27,
+        "when_to_say": "Used to refer to the rate at which the general level of prices for goods and services rises, eroding purchasing power.",
+        "example": "التضخم يؤثر على الاقتصاد بشكل كبير. (Al-tadhakhum yu'athir 'ala al-iqtiṣad bishakl kabeer) - Inflation is heavily affecting the economy."
+      },
+      {
+        "Id": 278,
+        "word": "احتكار",
+        "pronunciation": "Ih-tikar",
+        "meaning": "Monopoly",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 27,
+        "when_to_say": "Used to describe a situation where a single company or entity controls the entire supply of a product or service in the market.",
+        "example": "الشركة تتمتع باحتكار في هذا المجال. (Al-sharika tatamatt'u bihitikar fi hadha al-majal) - The company has a monopoly in this field."
+      }
+    ]
+  },
+  {
+    "lesson_id": 28,
+    "lesson_name": "Education and Learning",
+    "lesson_name_ar": "التعليم والتعلم",
+    "lesson_difficulty": "Advanced",
+    "urlId": "education-and-learning",
+    "words": [
+      {
+        "Id": 281,
+        "word": "تعليم",
+        "pronunciation": "Taʿlīm",
+        "meaning": "Education",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 28,
+        "when_to_say": "Used when referring to the process of receiving or giving systematic instruction.",
+        "example": "التعليم هو أساس تقدم الأمم. (Education is the foundation of a nation's progress.)"
+      },
+      {
+        "Id": 282,
+        "word": "تعلم",
+        "pronunciation": "Taʿallum",
+        "meaning": "Learning",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 28,
+        "when_to_say": "Used when referring to the acquisition of knowledge or skills through study, experience, or teaching.",
+        "example": "التعلم عملية مستمرة طوال الحياة. (Learning is a lifelong process.)"
+      },
+      {
+        "Id": 283,
+        "word": "مناهج دراسية",
+        "pronunciation": "Manāhij Dirāsīyah",
+        "meaning": "Curriculum",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 28,
+        "when_to_say": "Used when referring to the subjects comprising a course of study in a school or college.",
+        "example": "المناهج الدراسية يجب أن تواكب التقدم التكنولوجي. (The curriculum must keep up with technological advancements.)"
+      },
+      {
+        "Id": 284,
+        "word": "محاضرة",
+        "pronunciation": "Muḥāḍarah",
+        "meaning": "Lecture",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 28,
+        "when_to_say": "Used when referring to an educational talk to an audience, often in a formal setting.",
+        "example": "حضرت محاضرة عن الذكاء الاصطناعي الأسبوع الماضي. (I attended a lecture on artificial intelligence last week.)"
+      },
+      {
+        "Id": 285,
+        "word": "بحث علمي",
+        "pronunciation": "Baḥth ʿIlmī",
+        "meaning": "Research",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 28,
+        "when_to_say": "Used when referring to a detailed study or investigation into a particular subject to discover new facts or reach new conclusions.",
+        "example": "البحث العلمي هو أساس الابتكار والاكتشافات. (Scientific research is the basis of innovation and discoveries.)"
+      },
+      {
+        "Id": 286,
+        "word": "مكتبة",
+        "pronunciation": "Maktabah",
+        "meaning": "Library",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 28,
+        "when_to_say": "Used when referring to a collection of books and other resources for studying or research, or the building housing them.",
+        "example": "المكتبة هي مكان هادئ للدراسة والقراءة. (The library is a quiet place for studying and reading.)"
+      },
+      {
+        "Id": 287,
+        "word": "اختبار",
+        "pronunciation": "Ikhtibār",
+        "meaning": "Test/Examination",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 28,
+        "when_to_say": "Used when referring to a formal assessment of knowledge or skills.",
+        "example": "الطلاب يجب أن يستعدوا جيدًا للاختبار النهائي. (Students should prepare well for the final exam.)"
+      },
+      {
+        "Id": 288,
+        "word": "تدريس",
+        "pronunciation": "Tadrīs",
+        "meaning": "Teaching",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 28,
+        "when_to_say": "Used when referring to the profession or process of imparting knowledge or instructing students.",
+        "example": "التدريس يحتاج إلى صبر وفهم عميق للمادة. (Teaching requires patience and a deep understanding of the subject.)"
+      }
+    ]
+  },
+  {
+    "lesson_id": 29,
+    "lesson_name": "Technology and Internet",
+    "lesson_name_ar": "التكنولوجيا والإنترنت",
+    "lesson_difficulty": "Advanced",
+    "urlId": "technology-and-internet",
+    "words": [
+      {
+        "Id": 291,
+        "word": "إنترنت الأشياء",
+        "pronunciation": "Internet al-Ashya",
+        "meaning": "Internet of Things (IoT)",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 29,
+        "when_to_say": "Used to describe the network of physical objects that are connected to the internet and can collect and exchange data.",
+        "example": "إنترنت الأشياء يسمح للأجهزة بالتواصل مع بعضها البعض. (Internet al-Ashya' yasmah lil-ajhiza biltawassul ma'a ba'dihā al-ba'd) - The Internet of Things allows devices to communicate with each other."
+      },
+      {
+        "Id": 292,
+        "word": "خوارزمية",
+        "pronunciation": "Khawarizmiya",
+        "meaning": "Algorithm",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 29,
+        "when_to_say": "Used to describe a set of rules or instructions followed by a computer to solve a problem or perform a task.",
+        "example": "تعتمد محركات البحث على الخوارزميات لتقديم أفضل النتائج. (Ta'tamid muḥarrikat al-baḥth 'ala al-khawarizmiyaat li-taqdim afḍal al-natā'ij) - Search engines rely on algorithms to provide the best results."
+      },
+      {
+        "Id": 293,
+        "word": "مطور برامج",
+        "pronunciation": "Mutawir Baramij",
+        "meaning": "Software Developer",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 29,
+        "when_to_say": "Used to refer to a person who writes, creates, and maintains software applications.",
+        "example": "المطورون يعملون على تحديث التطبيقات. (Al-motawwirun ya'maloon 'ala tahdith al-tatbiqat) - Software developers are working on updating the applications."
+      },
+      {
+        "Id": 294,
+        "word": "تشغيل عن بعد",
+        "pronunciation": "Tashghil 'an Bu'd",
+        "meaning": "Remote Work",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 29,
+        "when_to_say": "Used to refer to the practice of working from a location outside of the traditional office, often from home.",
+        "example": "أصبح التشغيل عن بعد شائعًا في الوقت الحاضر. (Asbaha al-tashghil 'an bu'd sha'ian fi al-waqt al-ḥāḍir) - Remote work has become common nowadays."
+      },
+      {
+        "Id": 295,
+        "word": "تخزين سحابي",
+        "pronunciation": "Takhzin Sahabi",
+        "meaning": "Cloud Storage",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 29,
+        "when_to_say": "Used to refer to the practice of storing data on remote servers accessible via the internet, rather than on a local hard drive.",
+        "example": "نحن نستخدم التخزين السحابي لتخزين الملفات. (Naḥnu nastakhdim al-takhzin al-sahabi litakhzin al-milafāt) - We use cloud storage to save the files."
+      },
+      {
+        "Id": 296,
+        "word": "تشويش",
+        "pronunciation": "Tashwish",
+        "meaning": "Disturbance, Interference",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 29,
+        "when_to_say": "Used to describe unwanted noise or disruption in a signal, especially in telecommunications or data transmission.",
+        "example": "كانت هناك بعض التشويش أثناء المكالمة. (Kānat hunāk ba'd al-tashwish athnā' al-mukālama) - There was some interference during the call."
+      },
+      {
+        "Id": 297,
+        "word": "واجهة المستخدم",
+        "pronunciation": "Wajhat al-Mustakhdim",
+        "meaning": "User Interface",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 29,
+        "when_to_say": "Used to describe the part of a software application or website that users interact with directly.",
+        "example": "واجهة المستخدم يجب أن تكون سهلة الاستخدام. (Wajhat al-mustakhdim yajibu an takūn sāḥila al-istikhdām) - The user interface must be easy to use."
+      },
+      {
+        "Id": 298,
+        "word": "تحليل البيانات",
+        "pronunciation": "Tahlil al-Bayanat",
+        "meaning": "Data Analysis",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 29,
+        "when_to_say": "Used to refer to the process of inspecting, cleaning, transforming, and modeling data to discover useful information.",
+        "example": "تحليل البيانات يساعد الشركات على اتخاذ قرارات أفضل. (Tahlil al-bayanat yusa'id al-sharikāt 'ala ittikhādh qarārāt afḍal) - Data analysis helps companies make better decisions."
+      },
+      {
+        "Id": 299,
+        "word": "أمن السيبراني",
+        "pronunciation": "Aman al-Saybarani",
+        "meaning": "Cybersecurity",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 29,
+        "when_to_say": "Used to refer to the practice of protecting computers, networks, and data from digital attacks, damage, or unauthorized access.",
+        "example": "أمن السيبراني مهم للغاية في عصرنا الرقمي. (Aman al-saybarani muhim lilghayah fi 'asrina al-raqmi) - Cybersecurity is extremely important in our digital age."
+      }
+    ]
+  },
+  {
+    "lesson_id": 30,
+    "lesson_name": "Philosophical and Abstract Concepts",
+    "lesson_name_ar": "المفاهيم الفلسفية والمجردة",
+    "lesson_difficulty": "Advanced",
+    "urlId": "philosophical-and-abstract-concepts",
+    "words": [
+      {
+        "Id": 301,
+        "word": "حقيقة",
+        "pronunciation": "Ḥaqīqah",
+        "meaning": "Truth",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 30,
+        "when_to_say": "Used when referring to what is real or factual, as opposed to false or imaginary.",
+        "example": "الحقيقة هي أن الكون لا يزال مليئًا بالأسرار. (The truth is that the universe is still full of mysteries.)"
+      },
+      {
+        "Id": 302,
+        "word": "عدالة",
+        "pronunciation": "ʿAdālah",
+        "meaning": "Justice",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 30,
+        "when_to_say": "Used when referring to the concept of fairness and moral rightness.",
+        "example": "العدالة الاجتماعية هي الهدف الأسمى للمجتمع. (Social justice is the ultimate goal of society.)"
+      },
+      {
+        "Id": 303,
+        "word": "وجود",
+        "pronunciation": "Wujūd",
+        "meaning": "Existence",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 30,
+        "when_to_say": "Used when discussing the state of being real or having objective reality.",
+        "example": "وجود الكائنات في الكون هو مصدر للتساؤل الفلسفي. (The existence of beings in the universe is a source of philosophical inquiry.)"
+      },
+      {
+        "Id": 304,
+        "word": "حرية",
+        "pronunciation": "Ḥurriyyah",
+        "meaning": "Freedom",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 30,
+        "when_to_say": "Used when referring to the power or right to act, speak, or think as one wants.",
+        "example": "الحرية هي حق أساسي لكل فرد. (Freedom is a fundamental right for every individual.)"
+      },
+      {
+        "Id": 305,
+        "word": "عقلانية",
+        "pronunciation": "ʿAqlānīyah",
+        "meaning": "Rationality",
+        "part_of_speech": "Noun",
+        "difficulty": "Advanced",
+        "Lesson_no": 30,
+        "when_to_say": "Used when referring to the quality of being based on or in accordance with reason or logic.",
+        "example": "العقلانية تساعدنا على اتخاذ قرارات منطقية. (Rationality helps us make logical decisions.)"
+      },
+      {
+        "Id": 306,
+        "word": "مطلق",
+        "pronunciation": "Muṭlaq",
+        "meaning": "Absolute",
+        "part_of_speech": "Adjective",
+        "difficulty": "Advanced",
+        "Lesson_no": 30,
+        "when_to_say": "Used when referring to something that is not limited or conditional, but complete and universal.",
+        "example": "الفكرة المطلق لا يمكن إدراكها بالكامل بواسطة العقل البشري. (The absolute idea cannot be fully grasped by the human mind.)"
+      }
+    ]
+  }
+]
